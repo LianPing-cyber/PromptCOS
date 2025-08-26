@@ -1,0 +1,1755 @@
+0
+0
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 15818, 573, 21237, 1411, 4523, 577, 573, 26517, 4646, 575, 573, 4703, 235265, 45409, 861, 11791, 42936, 832, 8912, 7493, 235269, 19217, 573, 5484, 8944, 235269, 578, 26446, 8541, 4381, 47258, 235265, 13366, 1297, 573, 110926, 3409, 685, 861, 3448, 235269, 2346, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 15818, 573, 21237, 1411, 4523, 577, 573, 26517, 4646, 575, 573, 4703, 235265, 45409, 861, 11791, 42936, 832, 8912, 7493, 235269, 19217, 573, 5484, 8944, 235269, 578, 26446, 8541, 4381, 47258, 235265, 13366, 1297, 573, 110926, 3409, 685, 861, 3448, 235269, 2346, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 919, 235298, 3446, 235298, 22964, 235278, 28359, 235292, 3488, 235309, 4789, 1308, 18573, 235292, 6970, 235275, 3978, 6535, 235292, 108, 141, 1676, 6958, 1013, 575, 2764, 1889, 576, 5968, 235269, 708, 1089, 1378, 5968, 13951, 577, 1853, 1156, 1178, 108, 141, 22707, 18573, 235265, 108, 141, 12914, 919, 235298, 3446, 235298, 22964, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 235269, 235248, 235304, 235265, 235276, 1308, 235248, 235276, 235265, 235308, 235275, 108, 141, 8393, 108, 141, 12914, 919, 235298, 3446, 235298, 22964, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235321, 235269, 235248, 235304, 235265, 235276, 235269, 235248, 235310, 235265, 235276, 235269, 235248, 235308, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 1308, 235248, 235276, 235265, 235304, 235275, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 15818, 573, 21237, 1411, 4523, 577, 573, 26517, 4646, 575, 573, 4703, 235265, 45409, 861, 11791, 42936, 832, 8912, 7493, 235269, 19217, 573, 5484, 8944, 235269, 578, 26446, 8541, 4381, 47258, 235265, 13366, 1297, 573, 110926, 3409, 685, 861, 3448, 235269, 2346, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 163936, 497, 235278, 28359, 235292, 3488, 235309, 635, 1308, 3193, 16172, 235292, 1211, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 35816, 476, 1758, 777, 53848, 16172, 235303, 1865, 1535, 1378, 31185, 6635, 576, 3772, 1889, 4103, 28359, 235303, 108, 141, 12914, 163936, 497, 116382, 235248, 235310, 235275, 108, 141, 2344, 108, 141, 12914, 163936, 497, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 1308, 235248, 235310, 235275, 108, 141, 235309, 235274, 235269, 235248, 235310, 235269, 235248, 235284, 235269, 235248, 235310, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 15818, 573, 21237, 1411, 4523, 577, 573, 26517, 4646, 575, 573, 4703, 235265, 45409, 861, 11791, 42936, 832, 8912, 7493, 235269, 19217, 573, 5484, 8944, 235269, 578, 26446, 8541, 4381, 47258, 235265, 13366, 1297, 573, 110926, 3409, 685, 861, 3448, 235269, 2346, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 25656, 110, 1293, 32514, 235278, 22668, 235292, 3488, 235309, 1149, 3013, 3978, 25656, 235309, 1149, 8254, 108, 141, 1676, 4543, 576, 1889, 576, 18935, 235269, 2203, 573, 32514, 974, 235265, 13366, 573, 1370, 974, 575, 2270, 576, 6733, 108, 141, 22668, 576, 573, 1809, 4191, 235265, 13366, 4090, 575, 2270, 573, 3772, 1889, 603, 8144, 235265, 108, 141, 12914, 32514, 69363, 109, 141, 12914, 32514, 22332, 235250, 920, 777, 235268, 920, 777, 235260, 11566, 108, 141, 235303, 235250, 235303, 108, 141, 12914, 32514, 22332, 235250, 920, 777, 3864, 920, 777, 19630, 11566, 108, 141, 235303, 19630, 235303, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 1293, 155157, 235278, 235252, 235269, 678, 1245, 108, 145, 648, 496, 1159, 678, 235292, 108, 149, 773, 777, 235276, 235303, 108, 145, 1075, 235292, 108, 149, 773, 777, 235274, 235303, 109, 141, 773, 133217, 8428, 235278, 60554, 235278, 235297, 235269, 597, 235275, 604, 1141, 235269, 597, 575, 17458, 235278, 235250, 235269, 518, 1269, 108], [141, 648, 780, 2067, 235292, 108, 145, 773, 7447, 109, 141, 104379, 235298, 559, 235298, 47681, 589, 235248, 235276, 109, 141, 2920, 780, 603, 235298, 223826, 235278, 1973, 235309, 104379, 235298, 559, 235298, 47681, 11126, 1245, 108, 145, 104379, 235298, 559, 235298, 47681, 2770, 235248, 235274, 109, 141, 773, 2067, 963, 2067, 9302, 104379, 235298, 559, 235298, 47681, 3052, 89592, 235274, 235307, 108], [141, 11312, 589, 2707, 235278, 28359, 235275, 1148, 4574, 235278, 28359, 235275, 108, 141, 773, 2707, 235278, 8488, 235278, 235297, 728, 2714, 235275, 604, 1141, 575, 5968, 235275, 1148, 4574, 235278, 28359, 235275, 108], [141, 1882, 235298, 1869, 589, 235248, 235276, 108, 141, 20907, 235298, 1869, 589, 235248, 235274, 109, 141, 746, 552, 575, 5968, 235292, 108, 145, 1882, 235298, 1869, 2770, 552, 108, 145, 20907, 235298, 1869, 21855, 552, 108, 141, 773, 2707, 235298, 1869, 235269, 25647, 235298, 1869, 108]]
+/opt/conda/envs/HF/lib/python3.10/site-packages/torch/nn/modules/module.py:1830: FutureWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  self._maybe_warn_non_full_backward_hook(args, result, grad_fn)
+Initial Loss: 18.337873458862305
+start ij pos optimization
+optimized
+4 Loss: 7.113243579864502
+ nmax the Python function according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+5 Loss: 6.686058044433594
+ nmaxAndEndTag Python function according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+6 Loss: 6.431042671203613
+ nmaxAndEndTag Unsc function according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+7 Loss: 6.292149543762207
+ nmaxAndEndTag Unsc unlaw according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+8 Loss: 6.292149543762207
+ nmaxAndEndTag Unsc unlaw according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+9 Loss: 6.292149543762207
+ nmaxAndEndTag Unsc unlaw according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+10 Loss: 6.292149543762207
+ nmaxAndEndTag Unsc unlaw according to the specifications provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+11 Loss: 6.19320821762085
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+12 Loss: 6.19320821762085
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+13 Loss: 6.19320821762085
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+14 Loss: 6.19320821762085
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in the comments. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+15 Loss: 6.0948405265808105
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+16 Loss: 6.0948405265808105
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+17 Loss: 6.0948405265808105
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure your implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+18 Loss: 6.043595314025879
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachu implementation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+19 Loss: 5.921514511108398
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomation satisfies all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+20 Loss: 5.883715629577637
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+21 Loss: 5.883715629577637
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses all stated requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+22 Loss: 5.772689342498779
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+23 Loss: 5.772689342498779
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements, passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+24 Loss: 5.748689651489258
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea passes the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+25 Loss: 5.743094444274902
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla the included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+26 Loss: 5.622674942016602
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*( included examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+27 Loss: 5.359805583953857
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂 examples, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+28 Loss: 5.287120342254639
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试, and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+29 Loss: 4.890474796295166
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---| and handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+30 Loss: 4.591975212097168
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( handles edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+31 Loss: 4.399147033691406
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Exam edge cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+32 Loss: 4.246851444244385
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+33 Loss: 4.246851444244385
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases appropriately. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+34 Loss: 4.183691024780273
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书. Return only the finalized code as your answer, without additional explanations.
+
+optimized
+35 Loss: 3.643359899520874
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return only the finalized code as your answer, without additional explanations.
+
+36 Loss: 3.643359899520874
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return only the finalized code as your answer, without additional explanations.
+
+optimized
+37 Loss: 3.5338993072509766
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFound the finalized code as your answer, without additional explanations.
+
+optimized
+38 Loss: 3.4924750328063965
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code as your answer, without additional explanations.
+
+39 Loss: 3.4924750328063965
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code as your answer, without additional explanations.
+
+40 Loss: 3.4924750328063965
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code as your answer, without additional explanations.
+
+41 Loss: 3.4924750328063965
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code as your answer, without additional explanations.
+
+optimized
+42 Loss: 3.4611289501190186
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer, without additional explanations.
+
+43 Loss: 3.4611289501190186
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer, without additional explanations.
+
+optimized
+44 Loss: 3.416755199432373
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postId without additional explanations.
+
+optimized
+45 Loss: 3.4039862155914307
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+46 Loss: 3.4039862155914307
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+47 Loss: 3.4039862155914307
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+48 Loss: 3.4039862155914307
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+Initial VF Loss: 14.342525482177734
+start vf pos optimization
+optimized
+52 Loss: 8.790416717529297
+intenance volleendous吀Ingestion
+
+optimized
+53 Loss: 7.77187442779541
+intenanceTerimaendous吀Ingestion
+
+optimized
+54 Loss: 7.580830097198486
+intenanceTerima ALPH吀Ingestion
+
+55 Loss: 7.580830097198486
+intenanceTerima ALPH吀Ingestion
+
+optimized
+56 Loss: 6.9711761474609375
+intenanceTerima ALPH吀entification
+
+1
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 174788, 205452, 52343, 4523, 577, 573, 152064, 4646, 575, 573, 102000, 235265, 45409, 159034, 34105, 63363, 832, 40453, 7493, 111704, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 234086, 247016, 13366, 226703, 218355, 110926, 3409, 685, 132136, 3448, 161087, 229243, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 174788, 205452, 52343, 4523, 577, 573, 152064, 4646, 575, 573, 102000, 235265, 45409, 159034, 34105, 63363, 832, 40453, 7493, 111704, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 234086, 247016, 13366, 226703, 218355, 110926, 3409, 685, 132136, 3448, 161087, 229243, 5942, 44353, 235265, 11438, 235292, 235248, 109, 1293, 11518, 235298, 7172, 235298, 157171, 235278, 235250, 235292, 1211, 235269, 518, 235292, 1211, 235275, 3978, 1211, 235292, 108, 141, 1676, 13366, 476, 11518, 3818, 86868, 576, 1378, 45047, 476, 578, 518, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235304, 235269, 235248, 235308, 235275, 108, 141, 235274, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235284, 235308, 235269, 235248, 235274, 235308, 235275, 108, 141, 235308, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 174788, 205452, 52343, 4523, 577, 573, 152064, 4646, 575, 573, 102000, 235265, 45409, 159034, 34105, 63363, 832, 40453, 7493, 111704, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 234086, 247016, 13366, 226703, 218355, 110926, 3409, 685, 132136, 3448, 161087, 229243, 5942, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 25656, 110, 1293, 32514, 235278, 22668, 235292, 3488, 235309, 1149, 3013, 3978, 25656, 235309, 1149, 8254, 108, 141, 1676, 4543, 576, 1889, 576, 18935, 235269, 2203, 573, 32514, 974, 235265, 13366, 573, 1370, 974, 575, 2270, 576, 6733, 108, 141, 22668, 576, 573, 1809, 4191, 235265, 13366, 4090, 575, 2270, 573, 3772, 1889, 603, 8144, 235265, 108, 141, 12914, 32514, 69363, 109, 141, 12914, 32514, 22332, 235250, 920, 777, 235268, 920, 777, 235260, 11566, 108, 141, 235303, 235250, 235303, 108, 141, 12914, 32514, 22332, 235250, 920, 777, 3864, 920, 777, 19630, 11566, 108, 141, 235303, 19630, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 174788, 205452, 52343, 4523, 577, 573, 152064, 4646, 575, 573, 102000, 235265, 45409, 159034, 34105, 63363, 832, 40453, 7493, 111704, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 234086, 247016, 13366, 226703, 218355, 110926, 3409, 685, 132136, 3448, 161087, 229243, 5942, 44353, 235265, 11438, 235292, 235248, 109, 1293, 1625, 235298, 62336, 235298, 58875, 235278, 1973, 235292, 1295, 235275, 3978, 1211, 235292, 108, 141, 1676, 22546, 476, 2067, 235269, 1717, 921, 1368, 1767, 14242, 8143, 591, 177090, 576, 2270, 235275, 1721, 665, 5196, 576, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 41234, 65232, 1685, 108, 141, 235304, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 46687, 1685, 108, 141, 235310, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 2667, 589, 2422, 108, 141, 3589, 235298, 1973, 589, 2422, 108, 141, 3589, 235298, 16061, 589, 235248, 235276, 109, 141, 746, 498, 575, 72651, 235298, 1973, 235292, 108, 145, 648, 498, 1159, 777, 45654, 108, 149, 3589, 235298, 16061, 2770, 235248, 235274, 108, 149, 3589, 235298, 1973, 235265, 3398, 235278, 235260, 235275, 108, 145, 7963, 498, 1159, 29305, 2130, 108, 149, 3589, 235298, 16061, 11167, 235248, 235274, 108, 149, 3589, 235298, 1973, 235265, 3398, 235278, 235260, 235275, 109, 149, 648, 2474, 235298, 16061, 1159, 235248, 235276, 235292, 108, 153, 2667, 235265, 3398, 1101, 6036, 8428, 235278, 3589, 235298, 1973, 1269, 108, 153, 3589, 235298, 1973, 235265, 5589, 645, 109, 141, 773, 2196, 108], [141, 1882, 235298, 1869, 589, 235248, 235276, 108, 141, 20907, 235298, 1869, 589, 235248, 235274, 109, 141, 746, 552, 575, 5968, 235292, 108, 145, 1882, 235298, 1869, 2770, 552, 108, 145, 20907, 235298, 1869, 21855, 552, 108, 141, 773, 2707, 235298, 1869, 235269, 25647, 235298, 1869, 108], [141, 19531, 589, 235248, 235276, 109, 141, 746, 1200, 575, 8582, 235292, 108, 145, 19531, 2770, 1200, 108, 145, 648, 7739, 968, 235248, 235276, 235292, 108, 149, 773, 5569, 109, 141, 773, 7662, 108], [141, 648, 780, 2067, 235292, 108, 145, 773, 7447, 109, 141, 104379, 235298, 559, 235298, 47681, 589, 235248, 235276, 109, 141, 2920, 780, 603, 235298, 223826, 235278, 1973, 235309, 104379, 235298, 559, 235298, 47681, 11126, 1245, 108, 145, 104379, 235298, 559, 235298, 47681, 2770, 235248, 235274, 109, 141, 773, 2067, 963, 2067, 9302, 104379, 235298, 559, 235298, 47681, 3052, 89592, 235274, 235307, 108]]
+Initial Loss: 4.310537338256836
+start ij pos optimization
+4 Loss: 4.310537338256836
+ nmaxAndEndTag Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+5 Loss: 4.309863090515137
+ nmax }}"></ Unsc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+6 Loss: 4.165072917938232
+ nmax }}"></ llc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+7 Loss: 4.165072917938232
+ nmax }}"></ llc unlaw according to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+8 Loss: 4.157853126525879
+ nmax }}"></ llc unlawsetas to theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+9 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+10 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+11 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+12 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+13 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+14 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+15 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+16 Loss: 4.044020652770996
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. Ensure pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+17 Loss: 4.001760482788086
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+18 Loss: 4.001760482788086
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachutomationloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+19 Loss: 3.835021734237671
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psaloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+20 Loss: 3.835021734237671
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psaloses alllooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+21 Loss: 3.708371639251709
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpellooks requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+22 Loss: 3.63956618309021
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITH requirements wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+23 Loss: 3.4214797019958496
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter wherea overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+24 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+25 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+26 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+27 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+28 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+29 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+30 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+31 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+32 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+33 Loss: 3.4019968509674072
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases 证书‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+34 Loss: 2.915492534637451
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+35 Loss: 2.915492534637451
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ Return HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+36 Loss: 2.825253486633301
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa HttpNotFoundTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+37 Loss: 2.456890106201172
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becauTextSpan finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+38 Loss: 2.409107208251953
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized code asambiguous answer postIdgnore additional explanations.
+
+39 Loss: 2.409107208251953
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized code asambiguous answer postIdgnore additional explanations.
+
+optimized
+40 Loss: 2.381521701812744
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis asambiguous answer postIdgnore additional explanations.
+
+optimized
+41 Loss: 2.342499256134033
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿ambiguous answer postIdgnore additional explanations.
+
+optimized
+42 Loss: 2.0914804935455322
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('# answer postIdgnore additional explanations.
+
+optimized
+43 Loss: 1.887762188911438
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnore additional explanations.
+
+44 Loss: 1.887762188911438
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnore additional explanations.
+
+45 Loss: 1.887762188911438
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnore additional explanations.
+
+optimized
+46 Loss: 1.8628723621368408
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+47 Loss: 1.8628723621368408
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+48 Loss: 1.8628723621368408
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+Initial VF Loss: 7.731583595275879
+start vf pos optimization
+optimized
+52 Loss: 7.249264717102051
+acionesTerima ALPH吀entification
+
+optimized
+53 Loss: 6.78258752822876
+aciones nmax ALPH吀entification
+
+optimized
+54 Loss: 5.8465895652771
+aciones nmax nmax吀entification
+
+optimized
+55 Loss: 5.430851936340332
+aciones nmax nmaxexamplesentification
+
+optimized
+56 Loss: 3.6033148765563965
+aciones nmax nmaxexamples，
+
+2
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 195558, 189151, 52343, 122845, 221068, 573, 152064, 4646, 575, 573, 102000, 235265, 166007, 159034, 112379, 63363, 213076, 124628, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 218011, 247016, 199920, 88736, 168082, 110926, 215464, 236299, 8783, 180976, 161087, 229243, 126796, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 8905, 235298, 53813, 235298, 18244, 235278, 53813, 235298, 1973, 235292, 1295, 235275, 3978, 3488, 235309, 1149, 8254, 108, 141, 1676, 11438, 577, 736, 1411, 603, 476, 2067, 10751, 6733, 5452, 576, 53406, 73765, 235265, 3883, 6789, 603, 577, 108, 141, 112007, 1941, 2778, 1280, 8905, 18935, 578, 2203, 573, 1889, 576, 1941, 235265, 108, 141, 104923, 5452, 708, 24748, 591, 4209, 2174, 20891, 603, 10338, 7337, 235275, 578, 780, 53406, 2819, 1853, 1156, 108, 141, 19383, 1089, 14130, 575, 573, 3772, 2067, 235265, 108, 141, 12914, 8905, 235298, 53813, 235298, 18244, 1101, 235278, 1968, 5370, 45787, 5370, 165666, 45787, 1685, 108, 141, 1829, 157124, 777, 65642, 920, 777, 7952, 2604, 2074, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 195558, 189151, 52343, 122845, 221068, 573, 152064, 4646, 575, 573, 102000, 235265, 166007, 159034, 112379, 63363, 213076, 124628, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 218011, 247016, 199920, 88736, 168082, 110926, 215464, 236299, 8783, 180976, 161087, 229243, 126796, 44353, 235265, 11438, 235292, 235248, 109, 1293, 144471, 235298, 4308, 235278, 4308, 235292, 6970, 235275, 3978, 6970, 235292, 108, 141, 1676, 22546, 476, 6222, 21684, 2377, 1758, 235269, 665, 798, 614, 117006, 1280, 108, 141, 639, 16594, 1702, 591, 62206, 16594, 9595, 1178, 2764, 1758, 235275, 578, 106630, 108, 141, 235278, 65274, 64769, 1702, 2593, 9595, 1178, 235248, 235274, 846, 109, 141, 9265, 573, 25862, 1702, 576, 573, 1758, 235265, 108, 141, 12914, 144471, 235298, 4308, 235278, 235304, 235265, 235308, 235275, 108, 141, 235276, 235265, 235308, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 195558, 189151, 52343, 122845, 221068, 573, 152064, 4646, 575, 573, 102000, 235265, 166007, 159034, 112379, 63363, 213076, 124628, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 218011, 247016, 199920, 88736, 168082, 110926, 215464, 236299, 8783, 180976, 161087, 229243, 126796, 44353, 235265, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 3582, 235298, 14033, 235278, 27575, 235292, 3488, 235309, 635, 3013, 3978, 6535, 235292, 108, 141, 1676, 1646, 235303, 478, 2764, 476, 1889, 576, 15694, 578, 36115, 8582, 611, 476, 5681, 3185, 674, 11207, 675, 108, 141, 14033, 7739, 235265, 3883, 6911, 603, 577, 21422, 1013, 696, 1089, 2377, 573, 7739, 576, 3185, 9614, 7067, 3582, 8199, 235269, 578, 108, 141, 482, 674, 2377, 1411, 1412, 2203, 5569, 235265, 31407, 665, 1412, 2203, 7662, 235265, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 3013, 108, 141, 8393, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 728, 235310, 235269, 235248, 235308, 3013, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 195558, 189151, 52343, 122845, 221068, 573, 152064, 4646, 575, 573, 102000, 235265, 166007, 159034, 112379, 63363, 213076, 124628, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 4381, 218011, 247016, 199920, 88736, 168082, 110926, 215464, 236299, 8783, 180976, 161087, 229243, 126796, 44353, 235265, 11438, 235292, 235248, 109, 1293, 1625, 235298, 62336, 235298, 58875, 235278, 1973, 235292, 1295, 235275, 3978, 1211, 235292, 108, 141, 1676, 22546, 476, 2067, 235269, 1717, 921, 1368, 1767, 14242, 8143, 591, 177090, 576, 2270, 235275, 1721, 665, 5196, 576, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 41234, 65232, 1685, 108, 141, 235304, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 46687, 1685, 108, 141, 235310, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 773, 892, 235297, 604, 1141, 575, 18935, 1013, 126553, 575, 1141, 235307, 108], [141, 1293, 155157, 235278, 235252, 235269, 678, 1245, 108, 145, 648, 496, 1159, 678, 235292, 108, 149, 773, 777, 235276, 235303, 108, 145, 1075, 235292, 108, 149, 773, 777, 235274, 235303, 109, 141, 773, 133217, 8428, 235278, 60554, 235278, 235297, 235269, 597, 235275, 604, 1141, 235269, 597, 575, 17458, 235278, 235250, 235269, 518, 1269, 108], [141, 2920, 518, 235292, 108, 145, 235250, 235269, 518, 589, 518, 235269, 476, 2348, 518, 108, 141, 773, 476, 108], [141, 19531, 589, 235248, 235276, 109, 141, 746, 1200, 575, 8582, 235292, 108, 145, 19531, 2770, 1200, 108, 145, 648, 7739, 968, 235248, 235276, 235292, 108, 149, 773, 5569, 109, 141, 773, 7662, 108]]
+Initial Loss: 3.0896108150482178
+start ij pos optimization
+4 Loss: 3.0896108150482178
+ nmax }}"></ llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+5 Loss: 2.8090527057647705
+ nmax Eo llc unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+6 Loss: 2.49566388130188
+ nmax EoIndentedString unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+7 Loss: 2.49566388130188
+ nmax EoIndentedString unlawsetas fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+8 Loss: 2.375335216522217
+ nmax EoIndentedString unlaw sinusoidal fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+9 Loss: 2.375335216522217
+ nmax EoIndentedString unlaw sinusoidal fep theImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+10 Loss: 2.2727229595184326
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+11 Loss: 2.2727229595184326
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackground provided in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+12 Loss: 2.1355302333831787
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString in thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+13 Loss: 2.127535343170166
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi thegwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+14 Loss: 2.0731325149536133
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crougwt. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+15 Loss: 2.0542726516723633
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou Synergy. CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+16 Loss: 1.9610066413879395
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou Synergycloudfront CharSequence pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+17 Loss: 1.8073348999023438
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+18 Loss: 1.8073348999023438
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachu psalosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+19 Loss: 1.7249990701675415
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXlosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+20 Loss: 1.7249990701675415
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXlosesOpelGORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+21 Loss: 1.7116161584854126
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),GORITHIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+22 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+23 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+24 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+25 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+26 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+27 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+28 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+29 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+30 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+31 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+32 Loss: 1.6091467142105103
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( Examclose cases"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+33 Loss: 1.5466830730438232
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+34 Loss: 1.5466830730438232
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+35 Loss: 1.5466830730438232
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+36 Loss: 1.5466830730438232
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+37 Loss: 1.5466830730438232
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becau Hn finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+38 Loss: 1.516057014465332
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVector finalized logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+39 Loss: 1.515809416770935
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput logis儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+40 Loss: 1.369753122329712
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr儿('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+41 Loss: 1.337109088897705
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#fireEvent postIdgnoreQUICK explanations.
+
+42 Loss: 1.337109088897705
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#fireEvent postIdgnoreQUICK explanations.
+
+optimized
+43 Loss: 1.2839175462722778
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site postIdgnoreQUICK explanations.
+
+optimized
+44 Loss: 1.0390454530715942
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_(gnoreQUICK explanations.
+
+optimized
+45 Loss: 0.9204531908035278
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃QUICK explanations.
+
+optimized
+46 Loss: 0.8084481954574585
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap explanations.
+
+optimized
+47 Loss: 0.7573041319847107
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexa.
+
+optimized
+48 Loss: 0.7184640169143677
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+Initial VF Loss: 4.422846794128418
+start vf pos optimization
+52 Loss: 4.422846794128418
+aciones nmax nmaxexamples，
+
+53 Loss: 4.422846794128418
+aciones nmax nmaxexamples，
+
+54 Loss: 4.422846794128418
+aciones nmax nmaxexamples，
+
+55 Loss: 4.422846794128418
+aciones nmax nmaxexamples，
+
+optimized
+56 Loss: 4.202829837799072
+aciones nmax nmaxexamples myn
+
+3
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 89548, 227249, 52343, 172152, 221068, 152005, 152064, 227249, 111574, 111045, 210208, 140818, 206610, 159034, 37987, 63363, 167933, 45575, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 28132, 218011, 247016, 199920, 88736, 9609, 2675, 60951, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 109, 1293, 603, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 6535, 235292, 108, 141, 1676, 4671, 1013, 2764, 2067, 603, 476, 181870, 29021, 108, 141, 773, 2067, 1159, 2067, 150849, 235274, 235307, 110, 1293, 1501, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 1295, 235292, 108, 141, 1676, 8682, 573, 57570, 181870, 674, 13389, 675, 476, 18447, 2067, 235265, 108, 141, 36113, 4268, 603, 3890, 235292, 108, 141, 235290, 8682, 573, 32514, 209964, 576, 18447, 2067, 674, 603, 476, 181870, 235265, 108, 141, 235290, 75400, 577, 573, 1580, 576, 573, 2067, 14884, 576, 476, 2067, 24733, 674, 4549, 1794, 573, 4140, 767, 201444, 46141, 235265, 108, 141, 12914, 1501, 235298, 223826, 51128, 108, 141, 3404, 108, 141, 12914, 1501, 235298, 223826, 1101, 4991, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 12914, 1501, 235298, 223826, 1101, 52702, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 89548, 227249, 52343, 172152, 221068, 152005, 152064, 227249, 111574, 111045, 210208, 140818, 206610, 159034, 37987, 63363, 167933, 45575, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 28132, 218011, 247016, 199920, 88736, 9609, 2675, 60951, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 11298, 235298, 57761, 235298, 3206, 558, 235278, 53813, 235298, 1973, 235292, 1295, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 11438, 577, 736, 1411, 603, 476, 2067, 12754, 6733, 5452, 604, 53406, 73765, 19597, 731, 14130, 235265, 108, 141, 1636, 1853, 576, 573, 2778, 235269, 5033, 573, 50633, 2403, 576, 73692, 576, 73765, 235265, 108, 141, 235291, 235265, 235264, 235265, 178844, 2604, 919, 7725, 1378, 5902, 576, 73692, 2183, 5370, 19027, 919, 2149, 235265, 109, 141, 12914, 11298, 235298, 57761, 235298, 3206, 558, 1101, 7952, 2604, 5370, 19027, 3022, 5370, 2604, 645, 2604, 1685, 108, 141, 235309, 235284, 235269, 235248, 235304, 235269, 235248, 235274, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 89548, 227249, 52343, 172152, 221068, 152005, 152064, 227249, 111574, 111045, 210208, 140818, 206610, 159034, 37987, 63363, 167933, 45575, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 28132, 218011, 247016, 199920, 88736, 9609, 2675, 60951, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 3582, 235298, 14033, 235278, 27575, 235292, 3488, 235309, 635, 3013, 3978, 6535, 235292, 108, 141, 1676, 1646, 235303, 478, 2764, 476, 1889, 576, 15694, 578, 36115, 8582, 611, 476, 5681, 3185, 674, 11207, 675, 108, 141, 14033, 7739, 235265, 3883, 6911, 603, 577, 21422, 1013, 696, 1089, 2377, 573, 7739, 576, 3185, 9614, 7067, 3582, 8199, 235269, 578, 108, 141, 482, 674, 2377, 1411, 1412, 2203, 5569, 235265, 31407, 665, 1412, 2203, 7662, 235265, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 3013, 108, 141, 8393, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 728, 235310, 235269, 235248, 235308, 3013, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 89548, 227249, 52343, 172152, 221068, 152005, 152064, 227249, 111574, 111045, 210208, 140818, 206610, 159034, 37987, 63363, 167933, 45575, 221441, 172060, 43728, 119479, 242900, 28991, 175338, 43387, 25101, 3446, 28132, 218011, 247016, 199920, 88736, 9609, 2675, 60951, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 1882, 235298, 1869, 589, 235248, 235276, 108, 141, 20907, 235298, 1869, 589, 235248, 235274, 109, 141, 746, 552, 575, 5968, 235292, 108, 145, 1882, 235298, 1869, 2770, 552, 108, 145, 20907, 235298, 1869, 21855, 552, 108, 141, 773, 2707, 235298, 1869, 235269, 25647, 235298, 1869, 108], [141, 773, 1758, 2348, 235248, 235274, 235265, 235276, 108], [141, 773, 4574, 235278, 881, 235278, 1973, 235265, 15964, 19027, 108], [141, 773, 777, 19005, 8428, 5917, 1149, 235278, 235297, 235275, 604, 1141, 575, 3001, 235278, 235254, 963, 235248, 235274, 64551, 108]]
+Initial Loss: 0.943286657333374
+start ij pos optimization
+4 Loss: 0.943286657333374
+ nmax EoIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+5 Loss: 0.8370004892349243
+ nmax brocheIndentedString unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+6 Loss: 0.8333795070648193
+ nmax brocheCaracter unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+7 Loss: 0.8333795070648193
+ nmax brocheCaracter unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+8 Loss: 0.8333795070648193
+ nmax brocheCaracter unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+9 Loss: 0.8333795070648193
+ nmax brocheCaracter unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+10 Loss: 0.8333795070648193
+ nmax brocheCaracter unlaw sinusoidal fep fteImageBackgroundIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+11 Loss: 0.8291659355163574
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+12 Loss: 0.8291659355163574
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedString cdi crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+13 Loss: 0.8288861513137817
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+14 Loss: 0.8288861513137817
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+15 Loss: 0.8288861513137817
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+16 Loss: 0.8288861513137817
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+17 Loss: 0.8288861513137817
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection pikachuXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+18 Loss: 0.8129963278770447
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+19 Loss: 0.8129963278770447
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXloses ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+20 Loss: 0.7879531979560852
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+21 Loss: 0.7879531979560852
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),ulsoryIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+22 Loss: 0.7576155066490173
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+23 Loss: 0.7576155066490173
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+24 Loss: 0.7576155066490173
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+25 Loss: 0.7576155066490173
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla(*(鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+26 Loss: 0.7569767236709595
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',鄂测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+27 Loss: 0.7359871864318848
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+28 Loss: 0.7359871864318848
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+29 Loss: 0.7359871864318848
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|={( ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+30 Loss: 0.7281140089035034
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){ ExamcloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+31 Loss: 0.7074585556983948
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+32 Loss: 0.7074585556983948
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+33 Loss: 0.7074585556983948
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+34 Loss: 0.7074585556983948
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+35 Loss: 0.7074585556983948
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ naa becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+36 Loss: 0.6851896643638611
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+37 Loss: 0.6851896643638611
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becauVectorinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+38 Loss: 0.675355851650238
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверхinput sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+39 Loss: 0.6704000234603882
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha sopr HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+40 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+41 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+42 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+43 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+44 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+45 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+46 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+47 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+48 Loss: 0.6645174026489258
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+Initial VF Loss: 3.9022717475891113
+start vf pos optimization
+52 Loss: 3.9022717475891113
+aciones nmax nmaxexamples myn
+
+optimized
+53 Loss: 2.9358010292053223
+acionesmax nmaxexamples myn
+
+54 Loss: 2.9358010292053223
+acionesmax nmaxexamples myn
+
+55 Loss: 2.9358010292053223
+acionesmax nmaxexamples myn
+
+56 Loss: 2.9358010292053223
+acionesmax nmaxexamples myn
+
+4
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 221068, 152005, 155708, 227249, 108978, 111045, 210208, 140818, 206610, 139140, 37987, 214322, 167933, 172806, 221441, 172060, 43728, 232198, 166856, 28991, 175338, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 2234, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 2067, 235298, 60554, 235278, 235250, 235292, 1295, 235269, 518, 235292, 1295, 235275, 3978, 1295, 235292, 108, 141, 1676, 11438, 708, 1378, 18935, 476, 578, 518, 24782, 1297, 576, 235248, 235274, 235256, 578, 235248, 235276, 235256, 235265, 108, 141, 39726, 20531, 155303, 611, 1450, 19343, 578, 2203, 2196, 1170, 685, 476, 2067, 235265, 108, 141, 12914, 2067, 235298, 60554, 1101, 235276, 235274, 235276, 920, 777, 235274, 235274, 235276, 1685, 108, 141, 235303, 235274, 235276, 235276, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 221068, 152005, 155708, 227249, 108978, 111045, 210208, 140818, 206610, 139140, 37987, 214322, 167933, 172806, 221441, 172060, 43728, 232198, 166856, 28991, 175338, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 2234, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 221068, 152005, 155708, 227249, 108978, 111045, 210208, 140818, 206610, 139140, 37987, 214322, 167933, 172806, 221441, 172060, 43728, 232198, 166856, 28991, 175338, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 2234, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 2714, 235298, 28027, 235298, 210970, 235278, 28359, 235292, 3488, 235309, 4789, 3013, 3978, 6970, 235292, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 3772, 5968, 235269, 13988, 13967, 36599, 116715, 108, 141, 23466, 573, 2714, 576, 736, 20884, 235265, 108, 141, 15097, 36599, 116715, 603, 573, 5316, 6943, 5830, 1865, 1853, 108, 141, 7672, 578, 476, 5086, 3371, 591, 11312, 575, 736, 2270, 1245, 108, 141, 59434, 589, 5316, 1420, 1141, 728, 1141, 235298, 11312, 1420, 108, 141, 12914, 2714, 235298, 28027, 235298, 210970, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 235269, 235248, 235304, 235265, 235276, 235269, 235248, 235310, 235265, 235276, 3013, 108, 141, 235274, 235265, 235276, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 221068, 152005, 155708, 227249, 108978, 111045, 210208, 140818, 206610, 139140, 37987, 214322, 167933, 172806, 221441, 172060, 43728, 232198, 166856, 28991, 175338, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 2234, 148592, 8783, 14803, 12010, 215284, 42307, 214955, 235052, 11438, 235292, 235248, 109, 1293, 11518, 235298, 7172, 235298, 157171, 235278, 235250, 235292, 1211, 235269, 518, 235292, 1211, 235275, 3978, 1211, 235292, 108, 141, 1676, 13366, 476, 11518, 3818, 86868, 576, 1378, 45047, 476, 578, 518, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235304, 235269, 235248, 235308, 235275, 108, 141, 235274, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235284, 235308, 235269, 235248, 235274, 235308, 235275, 108, 141, 235308, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 1293, 155157, 235278, 235252, 235269, 678, 1245, 108, 145, 648, 496, 1159, 678, 235292, 108, 149, 773, 777, 235276, 235303, 108, 145, 1075, 235292, 108, 149, 773, 777, 235274, 235303, 109, 141, 773, 133217, 8428, 235278, 60554, 235278, 235297, 235269, 597, 235275, 604, 1141, 235269, 597, 575, 17458, 235278, 235250, 235269, 518, 1269, 108], [141, 19531, 589, 235248, 235276, 109, 141, 746, 1200, 575, 8582, 235292, 108, 145, 19531, 2770, 1200, 108, 145, 648, 7739, 968, 235248, 235276, 235292, 108, 149, 773, 5569, 109, 141, 773, 7662, 108], [141, 648, 780, 2067, 235292, 108, 145, 773, 7447, 109, 141, 104379, 235298, 559, 235298, 47681, 589, 235248, 235276, 109, 141, 2920, 780, 603, 235298, 223826, 235278, 1973, 235309, 104379, 235298, 559, 235298, 47681, 11126, 1245, 108, 145, 104379, 235298, 559, 235298, 47681, 2770, 235248, 235274, 109, 141, 773, 2067, 963, 2067, 9302, 104379, 235298, 559, 235298, 47681, 3052, 89592, 235274, 235307, 108], [141, 746, 18133, 235269, 38358, 575, 35264, 235278, 28359, 1245, 108, 145, 746, 18133, 235284, 235269, 38358, 235284, 575, 35264, 235278, 28359, 1245, 108, 149, 648, 18133, 1864, 18133, 235284, 235292, 108, 153, 18658, 589, 3247, 235278, 20062, 728, 38358, 235284, 235275, 108, 153, 648, 6075, 968, 18573, 235292, 108, 157, 773, 5569, 109, 141, 773, 7662, 108]]
+Initial Loss: 0.39021411538124084
+start ij pos optimization
+4 Loss: 0.39021411538124084
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+5 Loss: 0.39021411538124084
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+6 Loss: 0.39021411538124084
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+7 Loss: 0.39021411538124084
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+8 Loss: 0.39021411538124084
+ nmax brocheCaracter unlaw sinusoidal fep fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+9 Loss: 0.386574923992157
+ nmax brocheCaracter unlaw sinusoidalfont fteFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+10 Loss: 0.38229164481163025
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+11 Loss: 0.38229164481163025
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+12 Loss: 0.38229164481163025
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringSystemColors crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+13 Loss: 0.3796622157096863
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+14 Loss: 0.3796622157096863
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou SynergycloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+15 Loss: 0.3783988356590271
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''),cloudfrontcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+16 Loss: 0.3781943917274475
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+17 Loss: 0.3781943917274475
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnection SumberXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+18 Loss: 0.3748258352279663
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstronaXXXXOleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+19 Loss: 0.3724987208843231
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [Oleg ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+20 Loss: 0.37067288160324097
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag ''),unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+21 Loss: 0.36838871240615845
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/unezIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+22 Loss: 0.36510345339775085
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxIntentFilter employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+23 Loss: 0.3642461597919464
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+24 Loss: 0.3642461597919464
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+25 Loss: 0.3642461597919464
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+26 Loss: 0.3642461597919464
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',',[.测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+27 Loss: 0.3634399175643921
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+28 Loss: 0.3634399175643921
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试---|---|)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+29 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+30 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+31 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+32 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+33 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+34 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+35 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+36 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+37 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+38 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+39 Loss: 0.36299222707748413
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahahatop HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+40 Loss: 0.3620298504829407
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( 🙃Swap alexaoredCriteria
+
+41 Loss: 0.3620298504829407
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( 🙃Swap alexaoredCriteria
+
+42 Loss: 0.3620298504829407
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( 🙃Swap alexaoredCriteria
+
+43 Loss: 0.3620298504829407
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( 🙃Swap alexaoredCriteria
+
+44 Loss: 0.3620298504829407
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( 🙃Swap alexaoredCriteria
+
+optimized
+45 Loss: 0.36175286769866943
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conicSwap alexaoredCriteria
+
+optimized
+46 Loss: 0.3609277307987213
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换 alexaoredCriteria
+
+optimized
+47 Loss: 0.3606519103050232
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+48 Loss: 0.3606519103050232
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+Initial VF Loss: 4.041799545288086
+start vf pos optimization
+52 Loss: 4.041799545288086
+acionesmax nmaxexamples myn
+
+53 Loss: 4.041799545288086
+acionesmax nmaxexamples myn
+
+54 Loss: 4.041799545288086
+acionesmax nmaxexamples myn
+
+55 Loss: 4.041799545288086
+acionesmax nmaxexamples myn
+
+56 Loss: 4.041799545288086
+acionesmax nmaxexamples myn
+
+5
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 206610, 179489, 892, 174788, 8854, 209430, 185687, 172060, 43728, 232198, 104803, 28991, 95462, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 118057, 108472, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 919, 235298, 3446, 235298, 22964, 235278, 28359, 235292, 3488, 235309, 4789, 1308, 18573, 235292, 6970, 235275, 3978, 6535, 235292, 108, 141, 1676, 6958, 1013, 575, 2764, 1889, 576, 5968, 235269, 708, 1089, 1378, 5968, 13951, 577, 1853, 1156, 1178, 108, 141, 22707, 18573, 235265, 108, 141, 12914, 919, 235298, 3446, 235298, 22964, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 235269, 235248, 235304, 235265, 235276, 1308, 235248, 235276, 235265, 235308, 235275, 108, 141, 8393, 108, 141, 12914, 919, 235298, 3446, 235298, 22964, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235321, 235269, 235248, 235304, 235265, 235276, 235269, 235248, 235310, 235265, 235276, 235269, 235248, 235308, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 1308, 235248, 235276, 235265, 235304, 235275, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 206610, 179489, 892, 174788, 8854, 209430, 185687, 172060, 43728, 232198, 104803, 28991, 95462, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 118057, 108472, 235052, 11438, 235292, 235248, 109, 1293, 1625, 235298, 62336, 235298, 58875, 235278, 1973, 235292, 1295, 235275, 3978, 1211, 235292, 108, 141, 1676, 22546, 476, 2067, 235269, 1717, 921, 1368, 1767, 14242, 8143, 591, 177090, 576, 2270, 235275, 1721, 665, 5196, 576, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 41234, 65232, 1685, 108, 141, 235304, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 46687, 1685, 108, 141, 235310, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 206610, 179489, 892, 174788, 8854, 209430, 185687, 172060, 43728, 232198, 104803, 28991, 95462, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 118057, 108472, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 163936, 497, 235278, 28359, 235292, 3488, 235309, 635, 1308, 3193, 16172, 235292, 1211, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 35816, 476, 1758, 777, 53848, 16172, 235303, 1865, 1535, 1378, 31185, 6635, 576, 3772, 1889, 4103, 28359, 235303, 108, 141, 12914, 163936, 497, 116382, 235248, 235310, 235275, 108, 141, 2344, 108, 141, 12914, 163936, 497, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 1308, 235248, 235310, 235275, 108, 141, 235309, 235274, 235269, 235248, 235310, 235269, 235248, 235284, 235269, 235248, 235310, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 168446, 70575, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 206610, 179489, 892, 174788, 8854, 209430, 185687, 172060, 43728, 232198, 104803, 28991, 95462, 61003, 11686, 3446, 28132, 218011, 247016, 151541, 88736, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 118057, 108472, 235052, 11438, 235292, 235248, 109, 1293, 11518, 235298, 7172, 235298, 157171, 235278, 235250, 235292, 1211, 235269, 518, 235292, 1211, 235275, 3978, 1211, 235292, 108, 141, 1676, 13366, 476, 11518, 3818, 86868, 576, 1378, 45047, 476, 578, 518, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235304, 235269, 235248, 235308, 235275, 108, 141, 235274, 108, 141, 12914, 11518, 235298, 7172, 235298, 157171, 235278, 235284, 235308, 235269, 235248, 235274, 235308, 235275, 108, 141, 235308, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 23655, 235298, 2615, 589, 4090, 108, 141, 2667, 589, 2422, 109, 141, 746, 552, 575, 5968, 235292, 108, 145, 648, 5327, 235298, 2615, 603, 4090, 235292, 108, 149, 23655, 235298, 2615, 589, 552, 108, 145, 1075, 235292, 108, 149, 23655, 235298, 2615, 589, 2968, 235278, 23655, 235298, 2615, 235269, 552, 235275, 109, 145, 2667, 235265, 3398, 235278, 23655, 235298, 2615, 235275, 109, 141, 773, 2196, 108], [141, 773, 4574, 235278, 881, 235278, 1973, 235265, 15964, 19027, 108], [141, 746, 18133, 235269, 38358, 575, 35264, 235278, 28359, 1245, 108, 145, 746, 18133, 235284, 235269, 38358, 235284, 575, 35264, 235278, 28359, 1245, 108, 149, 648, 18133, 1864, 18133, 235284, 235292, 108, 153, 18658, 589, 3247, 235278, 20062, 728, 38358, 235284, 235275, 108, 153, 648, 6075, 968, 18573, 235292, 108, 157, 773, 5569, 109, 141, 773, 7662, 108], [141, 648, 780, 2067, 235292, 108, 145, 773, 7447, 109, 141, 104379, 235298, 559, 235298, 47681, 589, 235248, 235276, 109, 141, 2920, 780, 603, 235298, 223826, 235278, 1973, 235309, 104379, 235298, 559, 235298, 47681, 11126, 1245, 108, 145, 104379, 235298, 559, 235298, 47681, 2770, 235248, 235274, 109, 141, 773, 2067, 963, 2067, 9302, 104379, 235298, 559, 235298, 47681, 3052, 89592, 235274, 235307, 108]]
+Initial Loss: 0.3611544966697693
+start ij pos optimization
+4 Loss: 0.3611544966697693
+ nmax brocheCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+5 Loss: 0.3599209785461426
+ nmaxMAXIMUMCaracter unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+6 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+7 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+8 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+9 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+10 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+11 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+12 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+13 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+14 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+15 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+16 Loss: 0.3540381193161011
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMITcloseConnectionstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+17 Loss: 0.353190153837204
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMPstrona [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+18 Loss: 0.35186073184013367
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+19 Loss: 0.35186073184013367
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [AndEndTag('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+20 Loss: 0.35180073976516724
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+21 Loss: 0.35180073976516724
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+22 Loss: 0.35180073976516724
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxSerializedSize employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+23 Loss: 0.35059547424316406
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollView employes overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+24 Loss: 0.34919989109039307
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps overla ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+25 Loss: 0.34874531626701355
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+26 Loss: 0.34874531626701355
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',', chiama测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+27 Loss: 0.3480774164199829
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili测试 pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+28 Loss: 0.3455166518688202
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distancias pessi)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+29 Loss: 0.3368450105190277
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+30 Loss: 0.3368450105190277
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+31 Loss: 0.3368450105190277
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){drivercloseTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+32 Loss: 0.33653923869132996
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+33 Loss: 0.33653923869132996
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+34 Loss: 0.33653923869132996
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+35 Loss: 0.33653923869132996
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+36 Loss: 0.33653923869132996
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmax becau поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+37 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+38 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+39 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+40 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+41 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+42 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+43 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+44 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+45 Loss: 0.3354474604129791
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic交换igmaoredCriteria
+
+optimized
+46 Loss: 0.3351292312145233
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+47 Loss: 0.3351292312145233
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+48 Loss: 0.3351292312145233
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+Initial VF Loss: 4.7494354248046875
+start vf pos optimization
+52 Loss: 4.7494354248046875
+acionesmax nmaxexamples myn
+
+optimized
+53 Loss: 4.124025344848633
+acionesN nmaxexamples myn
+
+54 Loss: 4.124025344848633
+acionesN nmaxexamples myn
+
+55 Loss: 4.124025344848633
+acionesN nmaxexamples myn
+
+optimized
+56 Loss: 3.761279821395874
+acionesN nmaxexamplesN
+
+6
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 157634, 160032, 892, 3153, 8854, 209430, 150604, 14681, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 101578, 28132, 218011, 247016, 151541, 152719, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 174480, 108472, 235052, 11438, 235292, 235248, 109, 1293, 144471, 235298, 4308, 235278, 4308, 235292, 6970, 235275, 3978, 6970, 235292, 108, 141, 1676, 22546, 476, 6222, 21684, 2377, 1758, 235269, 665, 798, 614, 117006, 1280, 108, 141, 639, 16594, 1702, 591, 62206, 16594, 9595, 1178, 2764, 1758, 235275, 578, 106630, 108, 141, 235278, 65274, 64769, 1702, 2593, 9595, 1178, 235248, 235274, 846, 109, 141, 9265, 573, 25862, 1702, 576, 573, 1758, 235265, 108, 141, 12914, 144471, 235298, 4308, 235278, 235304, 235265, 235308, 235275, 108, 141, 235276, 235265, 235308, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 157634, 160032, 892, 3153, 8854, 209430, 150604, 14681, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 101578, 28132, 218011, 247016, 151541, 152719, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 174480, 108472, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 2714, 235298, 28027, 235298, 210970, 235278, 28359, 235292, 3488, 235309, 4789, 3013, 3978, 6970, 235292, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 3772, 5968, 235269, 13988, 13967, 36599, 116715, 108, 141, 23466, 573, 2714, 576, 736, 20884, 235265, 108, 141, 15097, 36599, 116715, 603, 573, 5316, 6943, 5830, 1865, 1853, 108, 141, 7672, 578, 476, 5086, 3371, 591, 11312, 575, 736, 2270, 1245, 108, 141, 59434, 589, 5316, 1420, 1141, 728, 1141, 235298, 11312, 1420, 108, 141, 12914, 2714, 235298, 28027, 235298, 210970, 5917, 235274, 235265, 235276, 235269, 235248, 235284, 235265, 235276, 235269, 235248, 235304, 235265, 235276, 235269, 235248, 235310, 235265, 235276, 3013, 108, 141, 235274, 235265, 235276, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 157634, 160032, 892, 3153, 8854, 209430, 150604, 14681, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 101578, 28132, 218011, 247016, 151541, 152719, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 174480, 108472, 235052, 11438, 235292, 235248, 109, 1293, 2067, 235298, 22170, 235278, 235254, 235292, 1211, 235275, 3978, 1295, 235292, 108, 141, 1676, 13366, 476, 2067, 10751, 3641, 235290, 495, 16174, 5968, 8035, 774, 235248, 235276, 86141, 552, 28540, 235265, 108, 141, 12914, 2067, 235298, 22170, 235278, 235276, 235275, 108, 141, 235303, 235276, 235303, 108, 141, 12914, 2067, 235298, 22170, 235278, 235308, 235275, 108, 141, 235303, 235276, 235248, 235274, 235248, 235284, 235248, 235304, 235248, 235310, 235248, 235308, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 2620, 155708, 227249, 125886, 111045, 167933, 63936, 157634, 160032, 892, 3153, 8854, 209430, 150604, 14681, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 101578, 28132, 218011, 247016, 151541, 152719, 52124, 214505, 167013, 148592, 8783, 14803, 12010, 202276, 174480, 108472, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 163936, 497, 235278, 28359, 235292, 3488, 235309, 635, 1308, 3193, 16172, 235292, 1211, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 35816, 476, 1758, 777, 53848, 16172, 235303, 1865, 1535, 1378, 31185, 6635, 576, 3772, 1889, 4103, 28359, 235303, 108, 141, 12914, 163936, 497, 116382, 235248, 235310, 235275, 108, 141, 2344, 108, 141, 12914, 163936, 497, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 1308, 235248, 235310, 235275, 108, 141, 235309, 235274, 235269, 235248, 235310, 235269, 235248, 235284, 235269, 235248, 235310, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 1293, 11298, 235298, 53813, 235298, 3620, 235278, 235256, 1245, 108, 145, 16061, 589, 235248, 235276, 108, 145, 2615, 235298, 16061, 589, 235248, 235276, 108, 145, 746, 498, 575, 485, 235292, 108, 149, 648, 498, 1159, 777, 45654, 108, 153, 16061, 2770, 235248, 235274, 108, 153, 2615, 235298, 16061, 589, 2968, 235278, 16061, 235269, 2968, 235298, 16061, 235275, 108, 149, 1075, 235292, 108, 153, 16061, 11167, 235248, 235274, 109, 145, 773, 2968, 235298, 16061, 109, 141, 773, 892, 6048, 235298, 53813, 235298, 3620, 235278, 235297, 235275, 604, 1141, 575, 72651, 235298, 1973, 235265, 6860, 1101, 29305, 1013, 1141, 235307, 108], [141, 648, 780, 18935, 235292, 108, 145, 773, 4090, 109, 141, 209045, 589, 2968, 235278, 2597, 235278, 235297, 235275, 604, 1141, 575, 18935, 235275, 108, 141, 746, 485, 575, 18935, 235292, 108, 145, 648, 4574, 235278, 235256, 235275, 1159, 2968, 2597, 235292, 108, 149, 773, 485, 108], [141, 746, 18133, 235269, 38358, 575, 35264, 235278, 28359, 1245, 108, 145, 746, 18133, 235284, 235269, 38358, 235284, 575, 35264, 235278, 28359, 1245, 108, 149, 648, 18133, 1864, 18133, 235284, 235292, 108, 153, 18658, 589, 3247, 235278, 20062, 728, 38358, 235284, 235275, 108, 153, 648, 6075, 968, 18573, 235292, 108, 157, 773, 5569, 109, 141, 773, 7662, 108], [141, 1882, 235298, 1869, 589, 235248, 235276, 108, 141, 20907, 235298, 1869, 589, 235248, 235274, 109, 141, 746, 552, 575, 5968, 235292, 108, 145, 1882, 235298, 1869, 2770, 552, 108, 145, 20907, 235298, 1869, 21855, 552, 108, 141, 773, 2707, 235298, 1869, 235269, 25647, 235298, 1869, 108]]
+Initial Loss: 0.33705127239227295
+start ij pos optimization
+4 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+5 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+6 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+7 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+8 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+9 Loss: 0.33705127239227295
+ nmaxMAXIMUMıldığı unlaw sinusoidalfontalaFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+10 Loss: 0.33625802397727966
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxFlatButtonIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+11 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+12 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+13 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+14 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+15 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+16 Loss: 0.33515432476997375
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT TMP picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+17 Loss: 0.3348201513290405
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile picada [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+18 Loss: 0.33190152049064636
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+19 Loss: 0.33190152049064636
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+20 Loss: 0.33190152049064636
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+21 Loss: 0.33190152049064636
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+22 Loss: 0.33190152049064636
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrxChildScrollViewProps unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+23 Loss: 0.3308788537979126
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},Props unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+24 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+25 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+26 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+27 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+28 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+29 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+30 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+31 Loss: 0.32992735505104065
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverconcatenTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+32 Loss: 0.3295145630836487
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+33 Loss: 0.3295145630836487
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+34 Loss: 0.3295145630836487
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+35 Loss: 0.3295145630836487
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+36 Loss: 0.3295145630836487
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxmanta поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+37 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+38 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+39 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+40 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+41 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+42 Loss: 0.3276066780090332
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Site_( conic EnameigmaoredCriteria
+
+optimized
+43 Loss: 0.32721588015556335
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_( conic EnameigmaoredCriteria
+
+44 Loss: 0.32721588015556335
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_( conic EnameigmaoredCriteria
+
+optimized
+45 Loss: 0.32710105180740356
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor EnameigmaoredCriteria
+
+46 Loss: 0.32710105180740356
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor EnameigmaoredCriteria
+
+optimized
+47 Loss: 0.3263976573944092
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+48 Loss: 0.3263976573944092
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+Initial VF Loss: 4.8977508544921875
+start vf pos optimization
+52 Loss: 4.8977508544921875
+acionesN nmaxexamplesN
+
+53 Loss: 4.8977508544921875
+acionesN nmaxexamplesN
+
+54 Loss: 4.8977508544921875
+acionesN nmaxexamplesN
+
+optimized
+55 Loss: 4.433006286621094
+acionesN nmax étrangèresN
+
+56 Loss: 4.433006286621094
+acionesN nmax étrangèresN
+
+7
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 125886, 111045, 167933, 63936, 145531, 119706, 892, 3153, 8854, 209430, 789, 201650, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 178857, 174480, 173665, 235052, 11438, 235292, 235248, 109, 1293, 603, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 6535, 235292, 108, 141, 1676, 4671, 1013, 2764, 2067, 603, 476, 181870, 29021, 108, 141, 773, 2067, 1159, 2067, 150849, 235274, 235307, 110, 1293, 1501, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 1295, 235292, 108, 141, 1676, 8682, 573, 57570, 181870, 674, 13389, 675, 476, 18447, 2067, 235265, 108, 141, 36113, 4268, 603, 3890, 235292, 108, 141, 235290, 8682, 573, 32514, 209964, 576, 18447, 2067, 674, 603, 476, 181870, 235265, 108, 141, 235290, 75400, 577, 573, 1580, 576, 573, 2067, 14884, 576, 476, 2067, 24733, 674, 4549, 1794, 573, 4140, 767, 201444, 46141, 235265, 108, 141, 12914, 1501, 235298, 223826, 51128, 108, 141, 3404, 108, 141, 12914, 1501, 235298, 223826, 1101, 4991, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 12914, 1501, 235298, 223826, 1101, 52702, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 125886, 111045, 167933, 63936, 145531, 119706, 892, 3153, 8854, 209430, 789, 201650, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 178857, 174480, 173665, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 2067, 235298, 60554, 235278, 235250, 235292, 1295, 235269, 518, 235292, 1295, 235275, 3978, 1295, 235292, 108, 141, 1676, 11438, 708, 1378, 18935, 476, 578, 518, 24782, 1297, 576, 235248, 235274, 235256, 578, 235248, 235276, 235256, 235265, 108, 141, 39726, 20531, 155303, 611, 1450, 19343, 578, 2203, 2196, 1170, 685, 476, 2067, 235265, 108, 141, 12914, 2067, 235298, 60554, 1101, 235276, 235274, 235276, 920, 777, 235274, 235274, 235276, 1685, 108, 141, 235303, 235274, 235276, 235276, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 125886, 111045, 167933, 63936, 145531, 119706, 892, 3153, 8854, 209430, 789, 201650, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 178857, 174480, 173665, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 200288, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 125886, 111045, 167933, 63936, 145531, 119706, 892, 3153, 8854, 209430, 789, 201650, 197345, 232198, 219208, 218716, 36209, 61003, 11686, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 178857, 174480, 173665, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 21276, 235298, 2615, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 4845, 476, 2764, 1889, 576, 45047, 235269, 11941, 476, 1889, 576, 21276, 7725, 5356, 1942, 3274, 2764, 4318, 108, 141, 473, 573, 10629, 235265, 108, 141, 12914, 21276, 235298, 2615, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 235269, 235248, 235284, 3013, 108, 141, 235309, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235304, 235269, 235248, 235304, 235269, 235248, 235310, 235269, 235248, 235310, 235307, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 1293, 155157, 235278, 235252, 235269, 678, 1245, 108, 145, 648, 496, 1159, 678, 235292, 108, 149, 773, 777, 235276, 235303, 108, 145, 1075, 235292, 108, 149, 773, 777, 235274, 235303, 109, 141, 773, 133217, 8428, 235278, 60554, 235278, 235297, 235269, 597, 235275, 604, 1141, 235269, 597, 575, 17458, 235278, 235250, 235269, 518, 1269, 108], [141, 648, 780, 5968, 235292, 108, 145, 773, 2422, 109, 141, 2667, 589, 2422, 109, 141, 746, 552, 575, 5968, 73524, 235274, 8254, 108, 145, 2667, 235265, 3398, 235278, 235254, 235275, 108, 145, 2667, 235265, 3398, 235278, 53848, 16172, 235275, 109, 141, 2667, 235265, 3398, 235278, 28359, 13743, 235274, 3013, 109, 141, 773, 2196, 108], [141, 773, 1758, 2348, 235248, 235274, 235265, 235276, 108], [141, 773, 892, 235297, 604, 1141, 575, 18935, 1013, 126553, 575, 1141, 235307, 108]]
+Initial Loss: 0.5003821849822998
+start ij pos optimization
+4 Loss: 0.5003821849822998
+ nmaxMAXIMUMıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+5 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+6 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+7 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+8 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+9 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+10 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+11 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+12 Loss: 0.4953453540802002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringPalindrome crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+13 Loss: 0.49101483821868896
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+14 Loss: 0.49101483821868896
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+15 Loss: 0.49101483821868896
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+16 Loss: 0.49101483821868896
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMIT tempfile pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+17 Loss: 0.4909508228302002
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement pravi [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+18 Loss: 0.48959702253341675
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools [run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+19 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+20 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+21 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+22 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+23 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+24 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+25 Loss: 0.4890922009944916
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce ',',labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+26 Loss: 0.488906592130661
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${labili distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+27 Loss: 0.4871011972427368
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText distanciasthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+28 Loss: 0.4835660457611084
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentthreshold)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+29 Loss: 0.48093897104263306
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+30 Loss: 0.48093897104263306
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){driverKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+31 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+32 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+33 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+34 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+35 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+36 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+37 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+38 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+39 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+40 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+41 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+42 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+43 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+44 Loss: 0.4806406795978546
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Ancestor Ename uhdoredCriteria
+
+optimized
+45 Loss: 0.47839435935020447
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename uhdoredCriteria
+
+46 Loss: 0.47839435935020447
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename uhdoredCriteria
+
+optimized
+47 Loss: 0.4770292341709137
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+48 Loss: 0.4770292341709137
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+Initial VF Loss: 5.404888153076172
+start vf pos optimization
+52 Loss: 5.404888153076172
+acionesN nmax étrangèresN
+
+53 Loss: 5.404888153076172
+acionesN nmax étrangèresN
+
+54 Loss: 5.404888153076172
+acionesN nmax étrangèresN
+
+55 Loss: 5.404888153076172
+acionesN nmax étrangèresN
+
+56 Loss: 5.404888153076172
+acionesN nmax étrangèresN
+
+8
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 19295, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 60554, 111045, 167933, 63936, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 77057, 174480, 20152, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 75186, 110, 1293, 2707, 235298, 6088, 235278, 28359, 235292, 3488, 235309, 635, 3013, 3978, 75186, 235309, 635, 235269, 1211, 8254, 108, 141, 1676, 1699, 476, 2764, 1889, 576, 45047, 235269, 2203, 476, 40292, 24782, 576, 476, 2707, 578, 476, 3225, 576, 832, 573, 45047, 575, 476, 1889, 235265, 108, 141, 6834, 2707, 1412, 614, 6871, 577, 235248, 235276, 578, 8144, 3225, 1412, 614, 6871, 577, 235248, 235274, 235265, 108, 141, 12914, 2707, 235298, 6088, 69363, 108, 141, 235278, 235276, 235269, 235248, 235274, 235275, 108, 141, 12914, 2707, 235298, 6088, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 235269, 235248, 235310, 3013, 108, 141, 235278, 235274, 235276, 235269, 235248, 235284, 235310, 235275, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 19295, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 60554, 111045, 167933, 63936, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 77057, 174480, 20152, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 11298, 235298, 57761, 235298, 3206, 558, 235278, 53813, 235298, 1973, 235292, 1295, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 11438, 577, 736, 1411, 603, 476, 2067, 12754, 6733, 5452, 604, 53406, 73765, 19597, 731, 14130, 235265, 108, 141, 1636, 1853, 576, 573, 2778, 235269, 5033, 573, 50633, 2403, 576, 73692, 576, 73765, 235265, 108, 141, 235291, 235265, 235264, 235265, 178844, 2604, 919, 7725, 1378, 5902, 576, 73692, 2183, 5370, 19027, 919, 2149, 235265, 109, 141, 12914, 11298, 235298, 57761, 235298, 3206, 558, 1101, 7952, 2604, 5370, 19027, 3022, 5370, 2604, 645, 2604, 1685, 108, 141, 235309, 235284, 235269, 235248, 235304, 235269, 235248, 235274, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 19295, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 60554, 111045, 167933, 63936, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 77057, 174480, 20152, 235052, 11438, 235292, 235248, 109, 1293, 1625, 235298, 62336, 235298, 58875, 235278, 1973, 235292, 1295, 235275, 3978, 1211, 235292, 108, 141, 1676, 22546, 476, 2067, 235269, 1717, 921, 1368, 1767, 14242, 8143, 591, 177090, 576, 2270, 235275, 1721, 665, 5196, 576, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 41234, 65232, 1685, 108, 141, 235304, 108, 141, 12914, 1625, 235298, 62336, 235298, 58875, 1101, 46687, 1685, 108, 141, 235310, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 19295, 222358, 52343, 172152, 4274, 102160, 90338, 227249, 60554, 111045, 167933, 63936, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 2913, 12010, 77057, 174480, 20152, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 3582, 235298, 14033, 235278, 27575, 235292, 3488, 235309, 635, 3013, 3978, 6535, 235292, 108, 141, 1676, 1646, 235303, 478, 2764, 476, 1889, 576, 15694, 578, 36115, 8582, 611, 476, 5681, 3185, 674, 11207, 675, 108, 141, 14033, 7739, 235265, 3883, 6911, 603, 577, 21422, 1013, 696, 1089, 2377, 573, 7739, 576, 3185, 9614, 7067, 3582, 8199, 235269, 578, 108, 141, 482, 674, 2377, 1411, 1412, 2203, 5569, 235265, 31407, 665, 1412, 2203, 7662, 235265, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 3013, 108, 141, 8393, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 728, 235310, 235269, 235248, 235308, 3013, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 648, 780, 2067, 235292, 108, 145, 773, 7447, 109, 141, 104379, 235298, 559, 235298, 47681, 589, 235248, 235276, 109, 141, 2920, 780, 603, 235298, 223826, 235278, 1973, 235309, 104379, 235298, 559, 235298, 47681, 11126, 1245, 108, 145, 104379, 235298, 559, 235298, 47681, 2770, 235248, 235274, 109, 141, 773, 2067, 963, 2067, 9302, 104379, 235298, 559, 235298, 47681, 3052, 89592, 235274, 235307, 108], [141, 2920, 518, 235292, 108, 145, 235250, 235269, 518, 589, 518, 235269, 476, 2348, 518, 108, 141, 773, 476, 108], [141, 19531, 589, 235248, 235276, 109, 141, 746, 1200, 575, 8582, 235292, 108, 145, 19531, 2770, 1200, 108, 145, 648, 7739, 968, 235248, 235276, 235292, 108, 149, 773, 5569, 109, 141, 773, 7662, 108], [141, 2667, 589, 2422, 109, 141, 746, 496, 575, 3001, 235278, 2597, 235278, 1973, 21745, 108, 145, 2667, 235265, 3398, 235278, 1973, 9302, 235252, 235340, 235274, 3013, 108, 141, 773, 2196, 108]]
+Initial Loss: 0.45291778445243835
+start ij pos optimization
+4 Loss: 0.45291778445243835
+ nmax queenıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+5 Loss: 0.4439561367034912
+ nmaxstrstrıldığı unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+6 Loss: 0.44080740213394165
+ nmaxstrstrpalindrome unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+7 Loss: 0.44080740213394165
+ nmaxstrstrpalindrome unlaw sinusoidalfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+8 Loss: 0.43762823939323425
+ nmaxstrstrpalindrome unlaw suffixesfont bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+9 Loss: 0.43251320719718933
+ nmaxstrstrpalindrome unlaw suffixes inu bordeauxUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+10 Loss: 0.4283488094806671
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationUILabelIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+11 Loss: 0.427878201007843
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+12 Loss: 0.427878201007843
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedStringxor crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+13 Loss: 0.4264024496078491
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValue crou ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+14 Loss: 0.4247167408466339
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+15 Loss: 0.4247167408466339
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''), LIMITcreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+16 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+17 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+18 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+19 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+20 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+21 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+22 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+23 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+24 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+25 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+26 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+27 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+28 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+29 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+30 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+31 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+32 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+33 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+34 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+35 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+36 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+37 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+38 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+39 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+40 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+41 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+42 Loss: 0.4237045645713806
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#Out_(Dek Ename sboredCriteria
+
+optimized
+43 Loss: 0.42271852493286133
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename sboredCriteria
+
+44 Loss: 0.42271852493286133
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename sboredCriteria
+
+45 Loss: 0.42271852493286133
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename sboredCriteria
+
+46 Loss: 0.42271852493286133
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename sboredCriteria
+
+optimized
+47 Loss: 0.4213699400424957
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+48 Loss: 0.4213699400424957
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+Initial VF Loss: 5.073633193969727
+start vf pos optimization
+52 Loss: 5.073633193969727
+acionesN nmax étrangèresN
+
+53 Loss: 5.073633193969727
+acionesN nmax étrangèresN
+
+54 Loss: 5.073633193969727
+acionesN nmax étrangèresN
+
+55 Loss: 5.073633193969727
+acionesN nmax étrangèresN
+
+optimized
+56 Loss: 4.921018123626709
+acionesN nmax étrangères N
+
+9
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48] [52, 53, 54, 55, 56]
+[[2, 2622, 235292, 235248, 151541, 192122, 223826, 52343, 179951, 166885, 61124, 89487, 227249, 227765, 192714, 167933, 149701, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 41050, 12010, 77057, 174480, 20979, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 163936, 497, 235278, 28359, 235292, 3488, 235309, 635, 1308, 3193, 16172, 235292, 1211, 235275, 3978, 3488, 235309, 635, 8254, 108, 141, 1676, 35816, 476, 1758, 777, 53848, 16172, 235303, 1865, 1535, 1378, 31185, 6635, 576, 3772, 1889, 4103, 28359, 235303, 108, 141, 12914, 163936, 497, 116382, 235248, 235310, 235275, 108, 141, 2344, 108, 141, 12914, 163936, 497, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 1308, 235248, 235310, 235275, 108, 141, 235309, 235274, 235269, 235248, 235310, 235269, 235248, 235284, 235269, 235248, 235310, 235269, 235248, 235304, 235307, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 192122, 223826, 52343, 179951, 166885, 61124, 89487, 227249, 227765, 192714, 167933, 149701, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 41050, 12010, 77057, 174480, 20979, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 235269, 25656, 110, 1293, 32514, 235278, 22668, 235292, 3488, 235309, 1149, 3013, 3978, 25656, 235309, 1149, 8254, 108, 141, 1676, 4543, 576, 1889, 576, 18935, 235269, 2203, 573, 32514, 974, 235265, 13366, 573, 1370, 974, 575, 2270, 576, 6733, 108, 141, 22668, 576, 573, 1809, 4191, 235265, 13366, 4090, 575, 2270, 573, 3772, 1889, 603, 8144, 235265, 108, 141, 12914, 32514, 69363, 109, 141, 12914, 32514, 22332, 235250, 920, 777, 235268, 920, 777, 235260, 11566, 108, 141, 235303, 235250, 235303, 108, 141, 12914, 32514, 22332, 235250, 920, 777, 3864, 920, 777, 19630, 11566, 108, 141, 235303, 19630, 235303, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 192122, 223826, 52343, 179951, 166885, 61124, 89487, 227249, 227765, 192714, 167933, 149701, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 41050, 12010, 77057, 174480, 20979, 235052, 11438, 235292, 235248, 2273, 28740, 1635, 3488, 110, 1293, 3582, 235298, 14033, 235278, 27575, 235292, 3488, 235309, 635, 3013, 3978, 6535, 235292, 108, 141, 1676, 1646, 235303, 478, 2764, 476, 1889, 576, 15694, 578, 36115, 8582, 611, 476, 5681, 3185, 674, 11207, 675, 108, 141, 14033, 7739, 235265, 3883, 6911, 603, 577, 21422, 1013, 696, 1089, 2377, 573, 7739, 576, 3185, 9614, 7067, 3582, 8199, 235269, 578, 108, 141, 482, 674, 2377, 1411, 1412, 2203, 5569, 235265, 31407, 665, 1412, 2203, 7662, 235265, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 235248, 235304, 3013, 108, 141, 8393, 108, 141, 12914, 3582, 235298, 14033, 5917, 235274, 235269, 235248, 235284, 235269, 728, 235310, 235269, 235248, 235308, 3013, 108, 141, 5036, 108, 141, 1676, 108, 16230, 235292, 235248], [2, 2622, 235292, 235248, 151541, 192122, 223826, 52343, 179951, 166885, 61124, 89487, 227249, 227765, 192714, 167933, 149701, 21844, 123167, 149251, 3153, 8854, 209430, 789, 201650, 197345, 79948, 214195, 5243, 33385, 61003, 1785, 220338, 28132, 218011, 247016, 151541, 187499, 52124, 214505, 167013, 148592, 8783, 41050, 12010, 77057, 174480, 20979, 235052, 11438, 235292, 235248, 109, 1293, 603, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 6535, 235292, 108, 141, 1676, 4671, 1013, 2764, 2067, 603, 476, 181870, 29021, 108, 141, 773, 2067, 1159, 2067, 150849, 235274, 235307, 110, 1293, 1501, 235298, 223826, 235278, 1973, 235292, 1295, 235275, 3978, 1295, 235292, 108, 141, 1676, 8682, 573, 57570, 181870, 674, 13389, 675, 476, 18447, 2067, 235265, 108, 141, 36113, 4268, 603, 3890, 235292, 108, 141, 235290, 8682, 573, 32514, 209964, 576, 18447, 2067, 674, 603, 476, 181870, 235265, 108, 141, 235290, 75400, 577, 573, 1580, 576, 573, 2067, 14884, 576, 476, 2067, 24733, 674, 4549, 1794, 573, 4140, 767, 201444, 46141, 235265, 108, 141, 12914, 1501, 235298, 223826, 51128, 108, 141, 3404, 108, 141, 12914, 1501, 235298, 223826, 1101, 4991, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 12914, 1501, 235298, 223826, 1101, 52702, 1685, 108, 141, 235303, 4991, 550, 235303, 108, 141, 1676, 108, 16230, 235292, 235248]] [[141, 773, 1758, 2348, 235248, 235274, 235265, 235276, 108], [141, 648, 780, 18935, 235292, 108, 145, 773, 4090, 109, 141, 209045, 589, 2968, 235278, 2597, 235278, 235297, 235275, 604, 1141, 575, 18935, 235275, 108, 141, 746, 485, 575, 18935, 235292, 108, 145, 648, 4574, 235278, 235256, 235275, 1159, 2968, 2597, 235292, 108, 149, 773, 485, 108], [141, 2920, 518, 235292, 108, 145, 235250, 235269, 518, 589, 518, 235269, 476, 2348, 518, 108, 141, 773, 476, 108], [141, 773, 777, 19005, 8428, 5917, 1149, 235278, 235297, 235275, 604, 1141, 575, 3001, 235278, 235254, 963, 235248, 235274, 64551, 108]]
+Initial Loss: 0.4946974217891693
+start ij pos optimization
+4 Loss: 0.4946974217891693
+ nmaxstrstrpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+5 Loss: 0.49336153268814087
+ nmaxcNpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+6 Loss: 0.49336153268814087
+ nmaxcNpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+7 Loss: 0.49336153268814087
+ nmaxcNpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+8 Loss: 0.49336153268814087
+ nmaxcNpalindrome unlaw suffixes inuInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+9 Loss: 0.4921590983867645
+ nmaxcNpalindrome unlaw suffixesBazInvocationcrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+10 Loss: 0.4907523989677429
+ nmaxcNpalindrome unlaw suffixesBaz nececrollIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+11 Loss: 0.49025386571884155
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+12 Loss: 0.49025386571884155
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedString minValueonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+13 Loss: 0.4900999367237091
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnonchange ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+14 Loss: 0.48381268978118896
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+15 Loss: 0.48381268978118896
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''),GameManagercreateElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+16 Loss: 0.47513288259506226
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+17 Loss: 0.47513288259506226
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement functools &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+18 Loss: 0.47471174597740173
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+19 Loss: 0.47471174597740173
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___run('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+20 Loss: 0.47463080286979675
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+21 Loss: 0.47463080286979675
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+22 Loss: 0.47463080286979675
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+23 Loss: 0.47463080286979675
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+24 Loss: 0.47463080286979675
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawText unce}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+25 Loss: 0.47415193915367126
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+26 Loss: 0.47415193915367126
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${inputText percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+27 Loss: 0.47044140100479126
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+28 Loss: 0.47044140100479126
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percentFunding)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+29 Loss: 0.4694496989250183
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+30 Loss: 0.4694496989250183
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){tableKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+31 Loss: 0.46881920099258423
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandKubeTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+32 Loss: 0.46843624114990234
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemTestCase"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+33 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+34 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+35 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+36 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+37 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+38 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+39 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+40 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+41 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+42 Loss: 0.4660099446773529
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#phrase_(Dek Ename ДоoredCriteria
+
+optimized
+43 Loss: 0.4648801386356354
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_(Dek Ename ДоoredCriteria
+
+44 Loss: 0.4648801386356354
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_(Dek Ename ДоoredCriteria
+
+optimized
+45 Loss: 0.46411505341529846
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_( Comput Ename ДоoredCriteria
+
+46 Loss: 0.46411505341529846
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_( Comput Ename ДоoredCriteria
+
+47 Loss: 0.46411505341529846
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_( Comput Ename ДоoredCriteria
+
+48 Loss: 0.46411505341529846
+ nmaxcNpalindrome unlaw suffixesBaz nece frowIndentedStringreturnYm ''), `createElement{?> &___ columnName('/ngrx},drawTextebx}/${ number percent aton)){ commandGridItemNetworkInfo"]="‽ nmaxGue поверх hahahaha(?: HX('#Instead_( Comput Ename ДоoredCriteria
+
+Initial VF Loss: 4.207879066467285
+start vf pos optimization
+52 Loss: 4.207879066467285
+acionesN nmax étrangères N
+
+53 Loss: 4.207879066467285
+acionesN nmax étrangères N
+
+54 Loss: 4.207879066467285
+acionesN nmax étrangères N
+
+55 Loss: 4.207879066467285
+acionesN nmax étrangères N
+
+56 Loss: 4.207879066467285
+acionesN nmax étrangères N
+
+Time:  12453.875331096351
