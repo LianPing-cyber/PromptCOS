@@ -1,1384 +1,0 @@
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.49s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.04s/it]
-0
-0
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 22070, 1706, 573, 3210, 1280, 7161, 235265, 1699, 1535, 22091, 235269, 4953, 573, 10513, 578, 1277, 2196, 685, 3245, 53202, 235293, 2667, 2492, 235265, 1419, 1483, 675, 573, 2048, 3448, 1452, 119809, 235265, 11438, 235292, 235248, 23281, 603, 43281, 476, 61311, 921, 576, 2187, 59656, 474, 235290, 58560, 235265, 1315, 919, 974, 5798, 774, 1853, 19835, 693, 919, 1125, 611, 235265, 7205, 5798, 603, 1277, 1997, 61311, 3963, 235265, 9573, 2172, 603, 1644, 576, 13854, 774, 476, 2167, 1162, 576, 98609, 235265, 1315, 6128, 611, 2785, 98609, 476, 1162, 578, 919, 1125, 19835, 574, 2754, 693, 729, 235248, 235284, 235304, 1658, 2187, 235265, 1315, 603, 1490, 235248, 235304, 235310, 235265, 2250, 1767, 61311, 13854, 1721, 693, 791, 575, 3051, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 22070, 1706, 573, 3210, 1280, 7161, 235265, 1699, 1535, 22091, 235269, 4953, 573, 10513, 578, 1277, 2196, 685, 3245, 53202, 235293, 2667, 2492, 235265, 1419, 1483, 675, 573, 2048, 3448, 1452, 119809, 235265, 11438, 235292, 235248, 235280, 2813, 5137, 7148, 603, 13026, 5137, 604, 697, 235304, 235265, 235276, 235276, 476, 47515, 235265, 139, 1969, 1059, 3277, 603, 13051, 16484, 235284, 235276, 174523, 842, 47515, 1013, 692, 8857, 908, 696, 736, 7148, 235265, 139, 2495, 4630, 58015, 235248, 235274, 235276, 44886, 576, 5137, 235269, 1368, 1683, 675, 1024, 5137, 614, 235269, 1452, 573, 174523, 28764, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 22070, 1706, 573, 3210, 1280, 7161, 235265, 1699, 1535, 22091, 235269, 4953, 573, 10513, 578, 1277, 2196, 685, 3245, 53202, 235293, 2667, 2492, 235265, 1419, 1483, 675, 573, 2048, 3448, 1452, 119809, 235265, 11438, 235292, 235248, 9069, 28685, 5077, 3250, 43469, 696, 573, 1809, 1069, 235265, 2365, 3293, 24547, 98899, 235269, 2145, 24547, 604, 235248, 235321, 235276, 7112, 235265, 714, 2351, 1744, 235269, 984, 5056, 7923, 3155, 235269, 18384, 235248, 235274, 235308, 235276, 7112, 235265, 2439, 235303, 235256, 573, 6075, 8758, 731, 1853, 6588, 575, 573, 1378, 2705, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 22070, 1706, 573, 3210, 1280, 7161, 235265, 1699, 1535, 22091, 235269, 4953, 573, 10513, 578, 1277, 2196, 685, 3245, 53202, 235293, 2667, 2492, 235265, 1419, 1483, 675, 573, 2048, 3448, 1452, 119809, 235265, 11438, 235292, 235248, 55806, 8989, 2001, 1162, 235303, 235256, 1963, 235290, 30475, 2870, 604, 697, 235274, 235315, 235265, 235308, 235276, 235265, 1417, 603, 675, 476, 235248, 235284, 235308, 235358, 15144, 774, 573, 3464, 3712, 235265, 2439, 729, 573, 3464, 3712, 576, 573, 2870, 235336, 16230, 235292, 235248]] [[3899, 52614, 235248, 235318, 235276, 235283, 235304, 235293, 5539, 235318, 235276, 235283, 235304, 235293, 235284, 235276, 2492, 235284, 235276, 11187, 235265, 108, 7409, 1104, 1049, 235248, 235304, 235276, 235290, 235284, 235276, 235293, 5539, 235304, 235276, 235290, 235284, 235276, 235293, 235274, 235276, 2492, 235274, 235276, 575, 573, 3303, 235290, 52538, 509, 25973, 577, 3293, 675, 235265, 108, 3308, 235248, 235274, 235276], [44718, 573, 5428, 10137, 15143, 4918, 693, 37944, 235248, 235274, 235274, 235276, 963, 235248, 235308, 589, 3245, 235274, 235274, 235276, 235340, 235308, 235293, 235274, 235274, 235308, 2492, 235274, 235274, 235308, 5428, 736, 1162, 235265, 108, 1949, 1093, 26405, 1980, 1767, 235269, 712, 693, 2004, 791, 4880, 235248, 235274, 235274, 235308, 1157, 235248, 235274, 235308, 589, 3245, 235274, 235274, 235308, 235290, 235274, 235308, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 5428, 577, 4199, 2001, 1162, 235349, 235256, 3619, 235265, 108, 24160, 235269, 693, 2004, 791, 26405, 235248, 235274, 235276, 235276, 1148, 235248, 235284, 589, 3245, 235274, 235276, 235276, 235283, 235284, 235293, 235308, 235276, 2492, 235308, 235276, 5428, 2001, 1162, 235265, 108, 3308, 235248, 235308, 235276], [3493, 708, 235248, 235284, 235276, 235276, 1141, 235248, 235284, 235283, 235308, 589, 3245, 235284, 235276, 235276, 235287, 235284, 235283, 235308, 235293, 235321, 235276, 2492, 235321, 235276, 10194, 575, 21589, 235248, 235308, 235265, 108, 2339, 235269, 235248, 235284, 235276, 235276, 728, 235248, 235321, 235276, 589, 3245, 235284, 235276, 235276, 235290, 235321, 235276, 235293, 235274, 235284, 235276, 2492, 235274, 235284, 235276, 708, 8216, 235265, 108, 2913, 576, 573, 235248, 235274, 235284, 235276, 8216, 235269, 235248, 235274, 235284, 235276, 1141, 235248, 235284, 235283, 235304, 589, 3245, 235274, 235284, 235276, 235287, 235284, 235283, 235304, 235293, 235321, 235276, 2492, 235321, 235276, 708, 575, 573, 4602, 68661, 235265, 108, 24160, 235269, 235248, 235274, 235284, 235276, 728, 235248, 235321, 235276, 589, 3245, 235274, 235284, 235276, 235290, 235321, 235276, 235293, 235310, 235276, 2492, 235310, 235276, 8216, 708, 780, 575, 573, 4602, 68661, 235265, 108, 3308, 235248, 235310, 235276], [5546, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 10649, 235292, 697, 235284, 235276, 235283, 14420, 649, 235248, 235304, 235308, 3763, 235283, 13118, 589, 697, 5539, 235284, 235276, 235287, 235304, 235308, 235293, 235324, 235276, 235276, 2492, 235324, 235276, 235276, 235283, 13118, 108, 7409, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 29026, 235292, 697, 235304, 235276, 235283, 14420, 649, 235248, 235274, 235308, 3763, 235283, 13118, 589, 697, 5539, 235304, 235276, 235287, 235274, 235308, 235293, 235310, 235308, 235276, 2492, 235310, 235308, 235276, 235283, 13118, 108, 7409, 1843, 1941, 1378, 15992, 577, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 235292, 697, 235324, 235276, 235276, 235283, 13118, 963, 697, 235310, 235308, 235276, 235283, 13118, 589, 697, 5539, 235324, 235276, 235276, 235340, 235310, 235308, 235276, 235293, 235274, 235274, 235308, 235276, 2492, 235274, 235274, 235308, 235276, 235283, 13118, 108, 7409, 29686, 674, 1758, 731, 573, 1758, 576, 5976, 57674, 3598, 575, 476, 1162, 577, 1717, 1070, 8897, 18463, 235292, 697, 235274, 235274, 235308, 235276, 235283, 13118, 649, 235248, 235308, 235276, 5976, 235283, 4085, 589, 697, 5539, 235274, 235274, 235308, 235276, 235287, 235308, 235276, 235293, 235308, 235324, 235308, 235276, 235276, 2492, 235308, 235324, 235269, 235308, 235276, 235276, 108, 3308, 235248, 235308, 235324, 235308, 235276, 235276]]
-/opt/conda/envs/HF/lib/python3.10/site-packages/torch/nn/modules/module.py:1830: FutureWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
-  self._maybe_warn_non_full_backward_hook(args, result, grad_fn)
-Initial Loss: 28.951810836791992
-start ij pos optimization
-optimized
-4 Loss: 22.465938568115234
-meteries down the problem into steps. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-5 Loss: 22.12655258178711
-meteriesДі the problem into steps. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-6 Loss: 21.51805305480957
-meteriesДі AssemblyCulture problem into steps. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-7 Loss: 21.17871856689453
-meteriesДі AssemblyCulturegeoning into steps. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-8 Loss: 20.958528518676758
-meteriesДі AssemblyCulturegeoningBlurb steps. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-9 Loss: 20.79831886291504
-meteriesДі AssemblyCulturegeoningBlurbKaieteur. For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-10 Loss: 20.6234130859375
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโคร For every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-11 Loss: 20.187488555908203
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครVidite every calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-12 Loss: 20.056129455566406
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessness calculation, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-13 Loss: 19.893354415893555
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-14 Loss: 19.893354415893555
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, display the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-15 Loss: 19.76264762878418
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-16 Loss: 19.76264762878418
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the formula and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-17 Loss: 19.697385787963867
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-18 Loss: 19.697385787963867
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and its result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-19 Loss: 19.48870849609375
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture result as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-20 Loss: 19.191801071166992
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є as <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-21 Loss: 19.156118392944336
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 <<formula=result>>. Conclude with the final answer after ####.
-
-optimized
-22 Loss: 19.06768798828125
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymsformula=result>>. Conclude with the final answer after ####.
-
-optimized
-23 Loss: 19.05025863647461
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=result>>. Conclude with the final answer after ####.
-
-24 Loss: 19.05025863647461
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=result>>. Conclude with the final answer after ####.
-
-optimized
-25 Loss: 18.99212646484375
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript>>. Conclude with the final answer after ####.
-
-optimized
-26 Loss: 18.86924934387207
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/;. Conclude with the final answer after ####.
-
-optimized
-27 Loss: 18.731962203979492
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne Conclude with the final answer after ####.
-
-optimized
-28 Loss: 18.391664505004883
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimclude with the final answer after ####.
-
-optimized
-29 Loss: 18.367271423339844
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with the final answer after ####.
-
-30 Loss: 18.367271423339844
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with the final answer after ####.
-
-optimized
-31 Loss: 18.053007125854492
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawan final answer after ####.
-
-optimized
-32 Loss: 17.9400577545166
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth answer after ####.
-
-optimized
-33 Loss: 17.75448226928711
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi after ####.
-
-optimized
-34 Loss: 17.565153121948242
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####.
-
-35 Loss: 17.565153121948242
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####.
-
-optimized
-36 Loss: 17.1682186126709
-meteriesДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-Initial VF Loss: 10.205801010131836
-start vf pos optimization
-optimized
-40 Loss: 6.231736660003662
- compagni volleendous吀Ingestion
-
-optimized
-41 Loss: 3.9460039138793945
- compagni organizationendous吀Ingestion
-
-optimized
-42 Loss: 2.222660541534424
- compagni organization Wikispecies吀Ingestion
-
-optimized
-43 Loss: 1.8817650079727173
- compagni organization Wikispecies++){Ingestion
-
-optimized
-44 Loss: 1.5014134645462036
- compagni organization Wikispecies++){CHRON
-
-1
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 140355, 152269, 86434, 162581, 217961, 235220, 175264, 128124, 32735, 123135, 235269, 15615, 573, 91238, 578, 86434, 38520, 238123, 133392, 5905, 235293, 218603, 156249, 163611, 95996, 2997, 675, 234936, 1847, 212946, 89711, 119809, 157911, 11438, 235292, 235248, 56421, 863, 2507, 235248, 235321, 235276, 2053, 235290, 500, 8467, 575, 1070, 45189, 1794, 1284, 24819, 921, 577, 1070, 3356, 696, 573, 8423, 6920, 235265, 139, 2122, 1070, 1703, 235269, 1284, 11892, 1401, 696, 573, 4659, 578, 15153, 476, 9262, 576, 4791, 235290, 500, 8467, 235289, 139, 2761, 1160, 235269, 1284, 7765, 476, 3821, 4791, 235290, 500, 4670, 611, 1853, 576, 235248, 235284, 235284, 235276, 2167, 20393, 576, 8423, 235265, 139, 2495, 1284, 1093, 235248, 235284, 235304, 2053, 235290, 500, 8467, 11548, 8691, 235269, 1368, 1767, 4791, 235290, 500, 8467, 1049, 575, 573, 9262, 674, 1284, 15153, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 140355, 152269, 86434, 162581, 217961, 235220, 175264, 128124, 32735, 123135, 235269, 15615, 573, 91238, 578, 86434, 38520, 238123, 133392, 5905, 235293, 218603, 156249, 163611, 95996, 2997, 675, 234936, 1847, 212946, 89711, 119809, 157911, 11438, 235292, 235248, 651, 1775, 17219, 235269, 2399, 235264, 235269, 3173, 1536, 81247, 13007, 8201, 1055, 235269, 24590, 3967, 3054, 4341, 2819, 476, 6075, 576, 235248, 235274, 235276, 235276, 235276, 5368, 235265, 139, 183715, 1538, 8734, 573, 4394, 678, 140923, 235269, 573, 1297, 3836, 17175, 674, 1538, 155702, 573, 17219, 235269, 604, 476, 6075, 576, 235248, 235310, 235276, 235276, 5368, 235269, 1578, 2819, 573, 6378, 576, 573, 17219, 235303, 235256, 39474, 235265, 139, 1860, 1185, 89038, 4600, 573, 80909, 128190, 235269, 1284, 1538, 8734, 573, 678, 140923, 2149, 3023, 36000, 1178, 1185, 780, 8576, 573, 128190, 235265, 1927, 8576, 573, 128190, 235269, 1368, 2166, 5162, 576, 573, 6378, 576, 573, 17219, 235303, 235256, 39474, 1538, 89038, 2249, 578, 2076, 4887, 573, 17219, 675, 573, 4394, 678, 140923, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 140355, 152269, 86434, 162581, 217961, 235220, 175264, 128124, 32735, 123135, 235269, 15615, 573, 91238, 578, 86434, 38520, 238123, 133392, 5905, 235293, 218603, 156249, 163611, 95996, 2997, 675, 234936, 1847, 212946, 89711, 119809, 157911, 11438, 235292, 235248, 72056, 7177, 235248, 235284, 35236, 576, 4368, 476, 2788, 604, 926, 10478, 235265, 1927, 1104, 708, 235248, 235304, 235276, 21961, 576, 4368, 611, 476, 7174, 576, 4368, 235269, 1368, 1767, 21961, 576, 4368, 1721, 693, 1281, 1535, 2514, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 140355, 152269, 86434, 162581, 217961, 235220, 175264, 128124, 32735, 123135, 235269, 15615, 573, 91238, 578, 86434, 38520, 238123, 133392, 5905, 235293, 218603, 156249, 163611, 95996, 2997, 675, 234936, 1847, 212946, 89711, 119809, 157911, 11438, 235292, 235248, 6179, 235303, 235256, 5290, 38219, 2003, 223636, 235269, 56255, 235269, 578, 72638, 696, 573, 2813, 4659, 235265, 586, 87171, 6331, 2149, 3023, 1212, 1853, 17682, 6331, 235265, 1364, 10436, 6331, 235248, 235308, 2644, 1178, 1212, 476, 87171, 2458, 235265, 85816, 603, 3841, 577, 573, 4659, 577, 4631, 235248, 235310, 2003, 223636, 235269, 235248, 235284, 235276, 56255, 235269, 578, 235248, 235274, 235276, 72638, 235265, 2439, 235303, 235256, 573, 3051, 3619, 576, 3370, 693, 877, 9999, 1013, 1853, 17682, 6331, 235248, 235274, 235308, 104817, 16230, 235292, 235248]] [[1949, 9040, 697, 235310, 235276, 235265, 235276, 235276, 611, 81012, 901, 984, 12497, 1357, 476, 235248, 235284, 235308, 235358, 10848, 712, 674, 235303, 235256, 235248, 235310, 235276, 23016, 235284, 235308, 589, 697, 235274, 235276, 235265, 235276, 235276, 108, 3493, 603, 1170, 476, 697, 235304, 235265, 235276, 235276, 8335, 10848, 578, 476, 697, 235310, 235265, 235276, 235276, 11581, 604, 671, 3437, 697, 235304, 963, 697, 235310, 589, 697, 5539, 235304, 235340, 235310, 235293, 235324, 235265, 235276, 235276, 2492, 235324, 235265, 235276, 235276, 575, 13561, 108, 11446, 81012, 1049, 697, 235310, 235276, 235265, 235276, 235276, 235269, 1104, 235303, 235256, 476, 697, 235274, 235276, 235265, 235276, 235276, 10848, 2755, 2550, 697, 235324, 235265, 235276, 235276, 575, 8335, 235283, 10682, 13561, 604, 476, 2048, 3051, 576, 697, 235310, 235276, 963, 697, 235274, 235276, 963, 697, 235324, 589, 697, 5539, 235310, 235276, 235340, 235274, 235276, 235340, 235324, 235293, 235308, 235324, 235265, 235276, 235276, 2492, 235308, 235324, 235265, 235276, 235276, 108, 3308, 235248, 235308, 235324], [2495, 19400, 1721, 235248, 235310, 235276, 235276, 14663, 576, 33606, 235269, 578, 36464, 1721, 3933, 685, 1683, 33606, 685, 19400, 235269, 36464, 1721, 235248, 235274, 235283, 235284, 235287, 235310, 235276, 235276, 589, 235248, 235284, 235276, 235276, 14663, 576, 33606, 235265, 108, 49776, 1170, 1721, 235248, 235310, 3023, 685, 1683, 33606, 685, 6046, 235269, 6996, 6046, 1721, 235248, 235310, 235276, 235276, 235283, 235310, 589, 3245, 235310, 235276, 235276, 235283, 235310, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 14663, 576, 33606, 235265, 108, 651, 5830, 575, 573, 3619, 576, 33606, 36464, 578, 6046, 749, 603, 235248, 235284, 235276, 235276, 235290, 235274, 235276, 235276, 589, 3245, 235284, 235276, 235276, 235290, 235274, 235276, 235276, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 14663, 108, 3308, 235248, 235274, 235276, 235276], [651, 3051, 9537, 19017, 1024, 15797, 603, 235248, 235324, 235340, 235274, 235274, 235293, 3245, 235324, 235340, 235274, 235274, 235293, 235274, 235321, 2492, 235274, 235321, 108, 12496, 573, 17441, 576, 573, 9537, 674, 12786, 17289, 235303, 235256, 3911, 603, 235248, 235274, 235274, 235283, 235274, 235321, 235269, 17289, 235303, 235256, 2474, 3911, 603, 235248, 235274, 235274, 235283, 235274, 235321, 235287, 235274, 235318, 235284, 589, 3245, 235274, 235274, 235283, 235274, 235321, 235287, 235274, 235318, 235284, 235293, 235315, 235315, 2492, 235315, 235315, 108, 2495, 17289, 603, 7094, 235248, 235315, 235315, 1658, 2187, 235269, 575, 235248, 235274, 235276, 1658, 693, 877, 614, 235248, 235315, 235315, 235340, 235274, 235276, 589, 3245, 235315, 235315, 235340, 235274, 235276, 235293, 235274, 235276, 235315, 2492, 235274, 235276, 235315, 1658, 2187, 108, 3308, 235248, 235274, 235276, 235315], [3493, 1049, 235248, 235274, 235324, 235308, 728, 235248, 235304, 235308, 589, 3245, 235274, 235324, 235308, 235290, 235304, 235308, 235293, 235274, 235310, 235276, 2492, 235274, 235310, 235276, 7962, 924, 575, 573, 29936, 15704, 235265, 108, 3493, 1049, 235248, 235274, 235310, 235276, 1141, 235248, 235284, 589, 3245, 235274, 235310, 235276, 235287, 235284, 235293, 235284, 235321, 235276, 2492, 235284, 235321, 235276, 6524, 67148, 575, 573, 29936, 15704, 235265, 108, 2339, 235269, 573, 3051, 1758, 576, 48771, 575, 573, 29936, 15704, 603, 235248, 235274, 235324, 235308, 963, 235248, 235274, 235310, 235276, 963, 235248, 235284, 235321, 235276, 589, 3245, 235274, 235324, 235308, 235340, 235274, 235310, 235276, 235340, 235284, 235321, 235276, 235293, 235308, 235315, 235308, 2492, 235308, 235315, 235308, 235265, 108, 3308, 235248, 235308, 235315, 235308]]
-Initial Loss: 17.27424430847168
-start ij pos optimization
-optimized
-4 Loss: 12.464577674865723
-AllAfricaДі AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-5 Loss: 11.653451919555664
-AllAfricaيكب AssemblyCulturegeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-6 Loss: 11.503069877624512
-AllAfricaيكبнојgeoningBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-7 Loss: 10.809556007385254
-AllAfricaيكبнојLookAndBlurbKaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-8 Loss: 10.654402732849121
-AllAfricaيكبнојLookAnd /></KaieteurโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-9 Loss: 10.50499153137207
-AllAfricaيكبнојLookAnd /></iyakiโครViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-10 Loss: 10.443866729736328
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-11 Loss: 10.443866729736328
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditelessnessWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-12 Loss: 10.187195777893066
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFWithMany, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-13 Loss: 9.887075424194336
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule, Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-14 Loss: 9.802594184875488
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-15 Loss: 9.802594184875488
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write the Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-16 Loss: 9.716401100158691
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write Paglinawan Coordinate and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-17 Loss: 9.632826805114746
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc and AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-18 Loss: 9.54919147491455
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ AssemblyCulture є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-19 Loss: 9.4640474319458
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرها є押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-20 Loss: 9.162187576293945
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-21 Loss: 9.162187576293945
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押 acronymshase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-22 Loss: 8.659453392028809
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContexthase=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-23 Loss: 8.310744285583496
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna=UserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-24 Loss: 7.893747806549072
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-25 Loss: 7.893747806549072
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-26 Loss: 7.893747806549072
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/; chrétienne brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-27 Loss: 7.740739822387695
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiście brimstart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-28 Loss: 7.314803600311279
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutablestart with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-29 Loss: 7.207968235015869
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta with Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-30 Loss: 7.165391445159912
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly Paglinawanidth ainfi endforeach ####RegressionTest
-
-31 Loss: 7.165391445159912
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly Paglinawanidth ainfi endforeach ####RegressionTest
-
-optimized
-32 Loss: 7.0639872550964355
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModule ainfi endforeach ####RegressionTest
-
-optimized
-33 Loss: 6.977944374084473
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach ####RegressionTest
-
-34 Loss: 6.977944374084473
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach ####RegressionTest
-
-optimized
-35 Loss: 6.921684741973877
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach ΛRegressionTest
-
-optimized
-36 Loss: 6.8480610847473145
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-Initial VF Loss: 12.841968536376953
-start vf pos optimization
-optimized
-40 Loss: 9.659207344055176
-որ organization Wikispecies++){CHRON
-
-optimized
-41 Loss: 5.647055149078369
-որAllAfrica Wikispecies++){CHRON
-
-optimized
-42 Loss: 3.4436275959014893
-որAllAfrica INCLUDING++){CHRON
-
-optimized
-43 Loss: 1.7826440334320068
-որAllAfrica INCLUDING∙CHRON
-
-optimized
-44 Loss: 0.782210111618042
-որAllAfrica INCLUDING∙կ
-
-2
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 141388, 192492, 101671, 110243, 152436, 233418, 128124, 168096, 91344, 224138, 15615, 234936, 55873, 191247, 111420, 130366, 238123, 42924, 84694, 714, 218603, 156249, 103356, 202076, 136244, 14920, 234936, 233297, 222470, 89711, 53149, 246922, 11438, 235292, 235248, 12362, 577, 1277, 51307, 5791, 235269, 476, 4079, 576, 23267, 919, 235248, 235284, 235308, 235276, 34366, 842, 14825, 235265, 1927, 476, 235248, 235304, 235276, 235276, 235264, 4079, 919, 235248, 235308, 84020, 235269, 1368, 1767, 27491, 798, 692, 7812, 1013, 861, 7074, 78058, 4408, 603, 235248, 235284, 235276, 235276, 235276, 578, 692, 791, 3303, 33561, 235248, 235274, 235321, 235276, 235276, 34366, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 101671, 110243, 152436, 233418, 128124, 168096, 91344, 224138, 15615, 234936, 55873, 191247, 111420, 130366, 238123, 42924, 84694, 714, 218603, 156249, 103356, 202076, 136244, 14920, 234936, 233297, 222470, 89711, 53149, 246922, 11438, 235292, 235248, 235277, 536, 216272, 919, 235248, 235284, 23246, 69356, 1178, 32057, 235265, 32057, 919, 235248, 235308, 978, 69356, 1178, 3933, 576, 36464, 235303, 235256, 69356, 235265, 1927, 36464, 919, 235248, 235310, 235276, 69356, 235269, 1368, 1767, 69356, 1721, 156851, 216272, 791, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 101671, 110243, 152436, 233418, 128124, 168096, 91344, 224138, 15615, 234936, 55873, 191247, 111420, 130366, 238123, 42924, 84694, 714, 218603, 156249, 103356, 202076, 136244, 14920, 234936, 233297, 222470, 89711, 53149, 246922, 11438, 235292, 235248, 59618, 603, 59480, 604, 926, 24981, 731, 13026, 126412, 604, 697, 235304, 476, 27125, 578, 40183, 546, 7195, 604, 697, 235310, 476, 27125, 235265, 1927, 38891, 38219, 235248, 235310, 235304, 126412, 578, 235248, 235284, 235304, 37920, 576, 98618, 235269, 1368, 1683, 3370, 1721, 38891, 12310, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 101671, 110243, 152436, 233418, 128124, 168096, 91344, 224138, 15615, 234936, 55873, 191247, 111420, 130366, 238123, 42924, 84694, 714, 218603, 156249, 103356, 202076, 136244, 14920, 234936, 233297, 222470, 89711, 53149, 246922, 11438, 235292, 235248, 3793, 11989, 603, 35376, 476, 235248, 235274, 235284, 235290, 35013, 14604, 235265, 2475, 3895, 235248, 235274, 6370, 577, 5376, 573, 1370, 235248, 235310, 7112, 235269, 1492, 2550, 6370, 577, 5376, 573, 2351, 1378, 7112, 235265, 1927, 1284, 8507, 1070, 5316, 4969, 577, 614, 235248, 235310, 7112, 842, 6370, 235269, 1212, 4969, 591, 473, 7112, 842, 6370, 235275, 1721, 1284, 1476, 577, 5376, 573, 11548, 6075, 235336, 16230, 235292, 235248]] [[3899, 48472, 235248, 235304, 12776, 1535, 1744, 578, 1104, 708, 235248, 235324, 2705, 575, 476, 2788, 712, 1284, 48472, 235248, 235304, 235287, 235324, 589, 3245, 235304, 235287, 235324, 235293, 235284, 235274, 2492, 235284, 235274, 12776, 476, 2788, 108, 5514, 235248, 235310, 5976, 1284, 877, 791, 34055, 235248, 235310, 235287, 235284, 235274, 589, 3245, 235310, 235287, 235284, 235274, 235293, 235321, 235310, 2492, 235321, 235310, 12776, 108, 3493, 708, 235248, 235274, 235284, 12776, 575, 235248, 235274, 25955, 578, 1284, 235303, 529, 7812, 235248, 235321, 235310, 12776, 712, 674, 235303, 235256, 235248, 235321, 235310, 235283, 235274, 235284, 589, 3245, 235321, 235310, 235283, 235274, 235284, 235293, 235324, 2492, 235324, 25955, 12776, 108, 3308, 235248, 235324], [1469, 2238, 573, 9478, 235269, 1104, 1049, 235248, 235308, 29859, 235269, 1853, 675, 235248, 235321, 9308, 235269, 948, 603, 235248, 235308, 235287, 235321, 235293, 5539, 235308, 235287, 235321, 235293, 235310, 235276, 2492, 235310, 235276, 9308, 576, 4506, 235265, 108, 2495, 1297, 235248, 235274, 235310, 13484, 235269, 1492, 235248, 235310, 235276, 235290, 235274, 235310, 235293, 5539, 235310, 235276, 235290, 235274, 235310, 235293, 235284, 235318, 2492, 235284, 235318, 9308, 576, 4506, 1093, 1125, 3443, 731, 13187, 235265, 108, 3308, 235248, 235284, 235318], [12496, 142161, 729, 38987, 697, 235310, 235276, 235276, 235276, 235276, 2785, 1658, 3958, 578, 4956, 476, 12310, 674, 3833, 1357, 14800, 235248, 235310, 235276, 235358, 978, 235269, 693, 4956, 476, 235248, 235310, 235276, 235283, 235274, 235276, 235276, 51824, 235310, 235276, 235276, 235276, 235276, 589, 697, 5539, 235310, 235276, 235283, 235274, 235276, 235276, 235287, 235310, 235276, 235276, 235276, 235276, 235293, 235274, 235318, 235276, 235276, 235276, 2492, 235274, 235318, 235276, 235276, 235276, 12310, 235265, 108, 886, 3051, 235269, 2785, 1658, 3416, 235269, 142161, 235303, 235256, 18463, 603, 697, 235310, 235276, 235276, 235276, 235276, 19876, 235274, 235318, 235276, 235276, 235276, 589, 697, 235308, 235318, 235276, 235276, 235276, 108, 2495, 2785, 1658, 3958, 142161, 729, 38987, 697, 235310, 235276, 235276, 235276, 235276, 235269, 578, 9002, 5854, 235303, 235256, 18463, 729, 235248, 235304, 235276, 235358, 2644, 235269, 1492, 9002, 5854, 235303, 235256, 18463, 729, 235248, 235304, 235276, 235283, 235274, 235276, 235276, 51824, 235310, 235276, 235276, 235276, 235276, 235293, 697, 235274, 235284, 235276, 235276, 235276, 2644, 1178, 142161, 235303, 235256, 18463, 2785, 1658, 3958, 235265, 108, 18405, 1658, 3958, 235269, 9002, 5854, 729, 38987, 697, 235310, 235276, 235276, 235276, 235276, 20660, 235274, 235284, 235276, 235276, 235276, 138817, 235284, 235321, 235276, 235276, 235276, 108, 5514, 14051, 476, 235248, 235310, 235276, 235358, 12310, 235269, 9002, 5854, 90984, 235248, 235310, 235276, 235283, 235274, 235276, 235276, 51824, 235284, 235321, 235276, 235276, 235276, 589, 697, 5539, 235310, 235276, 235283, 235274, 235276, 235276, 235287, 235284, 235321, 235276, 235276, 235276, 235293, 235274, 235274, 235284, 235276, 235276, 2492, 235274, 235274, 235284, 235276, 235276, 108, 886, 3051, 235269, 2785, 1658, 3416, 235269, 9002, 5854, 90984, 697, 235284, 235321, 235276, 235276, 235276, 19876, 235274, 235274, 235284, 235276, 235276, 235293, 697, 5539, 235284, 235321, 235276, 235276, 235276, 235340, 235274, 235274, 235284, 235276, 235276, 235293, 235304, 235315, 235284, 235276, 235276, 2492, 235304, 235315, 235284, 235276, 235276, 235265, 108, 651, 3051, 3619, 576, 18463, 573, 1378, 14800, 2785, 1658, 3416, 603, 697, 235304, 235315, 235284, 235276, 235276, 19876, 235308, 235318, 235276, 235276, 235276, 589, 697, 5539, 235304, 235315, 235284, 235276, 235276, 235340, 235308, 235318, 235276, 235276, 235276, 235293, 235315, 235308, 235284, 235276, 235276, 2492, 235315, 235308, 235284, 235276, 235276, 108, 3308, 235248, 235315, 235308, 235284, 235276, 235276], [235280, 697, 235274, 235308, 235276, 1141, 235248, 235284, 235283, 235274, 235276, 235276, 589, 697, 5539, 235274, 235308, 235276, 235287, 235284, 235283, 235274, 235276, 235276, 235293, 235304, 2492, 235304, 3273, 877, 614, 12497, 604, 1853, 4982, 235265, 108, 2339, 235269, 1853, 3027, 5248, 6331, 697, 235274, 235308, 235276, 963, 697, 235304, 589, 697, 5539, 235274, 235308, 235276, 235340, 235304, 235293, 235274, 235308, 235304, 2492, 235274, 235308, 235304, 235265, 108, 651, 3051, 3619, 577, 614, 6838, 604, 235248, 235308, 3027, 26215, 603, 697, 235274, 235308, 235304, 1141, 235248, 235308, 589, 697, 5539, 235274, 235308, 235304, 235287, 235308, 235293, 235324, 235318, 235308, 2492, 235324, 235318, 235308, 235265, 108, 20292, 235269, 6129, 3870, 877, 2523, 697, 235324, 235318, 235308, 235283, 235304, 589, 697, 5539, 235324, 235318, 235308, 235283, 235304, 235293, 235284, 235308, 235308, 2492, 235284, 235308, 235308, 1853, 2514, 235265, 108, 3308, 235248, 235284, 235308, 235308]]
-Initial Loss: 8.66032600402832
-start ij pos optimization
-4 Loss: 8.66032600402832
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-5 Loss: 8.66032600402832
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-6 Loss: 8.66032600402832
-AllAfricaيكبнојLookAnd /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-7 Loss: 8.44328784942627
-AllAfricaيكبнојmakeConstraints /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-8 Loss: 8.44328784942627
-AllAfricaيكبнојmakeConstraints /></iyakiPHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-9 Loss: 8.101556777954102
-AllAfricaيكبнојmakeConstraints /></!!</PHeaderViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-10 Loss: 7.872793197631836
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-11 Loss: 7.872793197631836
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-12 Loss: 7.872793197631836
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREFendmodule JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-13 Loss: 7.7556352615356445
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakip JSTOR Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-14 Loss: 7.50439453125
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqual Write PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-15 Loss: 7.198093414306641
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-16 Loss: 7.198093414306641
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله PaglinawanJavadoc();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-17 Loss: 6.970022201538086
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-18 Loss: 6.970022201538086
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-19 Loss: 6.970022201538086
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرهاizzate押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-20 Loss: 6.9554009437561035
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet押BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-21 Loss: 6.863060474395752
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-22 Loss: 6.863060474395752
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-23 Loss: 6.863060474395752
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna TheUserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-24 Loss: 6.778467655181885
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦UserScript*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-25 Loss: 6.473073959350586
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/*/;wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-26 Loss: 6.2370781898498535
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#wiścieIsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-27 Loss: 6.068406105041504
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-28 Loss: 6.068406105041504
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-29 Loss: 6.068406105041504
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledotta greatly PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-30 Loss: 5.82796049118042
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache PaglinawanIonicModuleFocusing endforeach Λ
-
-31 Loss: 5.82796049118042
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache PaglinawanIonicModuleFocusing endforeach Λ
-
-optimized
-32 Loss: 5.582024574279785
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCultureFocusing endforeach Λ
-
-optimized
-33 Loss: 5.422849655151367
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHide endforeach Λ
-
-optimized
-34 Loss: 5.038915157318115
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t Λ
-
-optimized
-35 Loss: 4.332037448883057
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հ
-
-optimized
-36 Loss: 4.221527099609375
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-Initial VF Loss: 8.682957649230957
-start vf pos optimization
-optimized
-40 Loss: 6.660900592803955
- juſtAllAfrica INCLUDING∙կ
-
-optimized
-41 Loss: 5.455617904663086
- juſt AllAfrica INCLUDING∙կ
-
-optimized
-42 Loss: 3.404669761657715
- juſt AllAfrica الأصل∙կ
-
-optimized
-43 Loss: 2.9987404346466064
- juſt AllAfrica الأصل／կ
-
-44 Loss: 2.9987404346466064
- juſt AllAfrica الأصل／կ
-
-3
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 141388, 192492, 161153, 110243, 184517, 83694, 128124, 168096, 212549, 33396, 224127, 234936, 126693, 191247, 111420, 201130, 151851, 42924, 84694, 238633, 160514, 67876, 206863, 202076, 136244, 155247, 234936, 86434, 134175, 186226, 47957, 109956, 11438, 235292, 235248, 235280, 3277, 11928, 1853, 576, 1277, 8663, 697, 235318, 235276, 235276, 575, 476, 2514, 235265, 714, 3277, 919, 476, 5075, 576, 8185, 573, 40646, 576, 1853, 576, 1277, 8663, 731, 235248, 235274, 235276, 235358, 576, 573, 5528, 18463, 1535, 1162, 604, 1941, 1064, 235303, 524, 21352, 575, 573, 3277, 604, 4105, 1658, 235265, 1927, 162831, 1317, 177084, 235248, 235308, 1658, 575, 573, 3277, 2001, 5824, 235269, 1212, 235303, 235256, 1070, 8897, 18463, 1452, 2149, 978, 1658, 576, 2566, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 161153, 110243, 184517, 83694, 128124, 168096, 212549, 33396, 224127, 234936, 126693, 191247, 111420, 201130, 151851, 42924, 84694, 238633, 160514, 67876, 206863, 202076, 136244, 155247, 234936, 86434, 134175, 186226, 47957, 109956, 11438, 235292, 235248, 65725, 798, 4631, 9148, 575, 21909, 576, 235248, 235304, 604, 697, 235284, 235265, 235308, 235276, 689, 575, 21909, 576, 235248, 235284, 604, 697, 235274, 235265, 2250, 1683, 3370, 1721, 693, 5381, 731, 13014, 235248, 235274, 235321, 9148, 696, 573, 2525, 3712, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 161153, 110243, 184517, 83694, 128124, 168096, 212549, 33396, 224127, 234936, 126693, 191247, 111420, 201130, 151851, 42924, 84694, 238633, 160514, 67876, 206863, 202076, 136244, 155247, 234936, 86434, 134175, 186226, 47957, 109956, 11438, 235292, 235248, 127603, 3833, 8423, 2177, 86682, 576, 9347, 578, 20393, 576, 2003, 575, 573, 9537, 576, 235248, 235324, 235292, 235274, 235304, 235265, 1927, 1284, 1671, 476, 3051, 576, 235248, 235274, 235284, 235276, 86682, 576, 9347, 578, 20393, 576, 2003, 235269, 13988, 573, 1758, 576, 30882, 145816, 576, 9347, 1284, 1671, 235265, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 141388, 192492, 161153, 110243, 184517, 83694, 128124, 168096, 212549, 33396, 224127, 234936, 126693, 191247, 111420, 201130, 151851, 42924, 84694, 238633, 160514, 67876, 206863, 202076, 136244, 155247, 234936, 86434, 134175, 186226, 47957, 109956, 11438, 235292, 235248, 6726, 7362, 577, 4874, 832, 926, 20369, 578, 1281, 573, 3370, 577, 4631, 3569, 5178, 235265, 1315, 919, 235248, 235274, 235304, 37901, 9032, 578, 693, 38219, 1174, 604, 697, 235274, 235308, 1853, 235265, 1315, 11338, 908, 13014, 235248, 235321, 3569, 5178, 604, 697, 235284, 235276, 1853, 578, 919, 697, 235308, 2731, 235265, 2250, 1767, 37901, 9032, 1721, 693, 2076, 791, 235336, 16230, 235292, 235248]] [[651, 3051, 1758, 576, 33954, 603, 235248, 235274, 235276, 963, 235248, 235284, 235274, 963, 235248, 235284, 235304, 589, 3245, 235274, 235276, 235340, 235284, 235274, 235340, 235284, 235304, 235293, 235308, 235310, 2492, 235308, 235310, 235265, 108, 651, 1758, 576, 33954, 2764, 3024, 578, 1671, 611, 573, 32338, 4076, 603, 235248, 235315, 963, 235248, 235284, 235321, 589, 3245, 235315, 235340, 235284, 235321, 235293, 235304, 235324, 2492, 235304, 235324, 235265, 108, 44659, 919, 235248, 235308, 235310, 21151, 235248, 235304, 235324, 589, 235248, 235274, 235324, 33954, 2731, 235265, 108, 3308, 235248, 235274, 235324], [4115, 693, 6787, 2449, 693, 729, 235248, 235304, 235287, 235318, 235276, 235293, 5539, 235304, 235287, 235318, 235276, 235293, 235274, 235321, 235276, 2492, 235274, 235321, 235276, 7112, 774, 2078, 108, 1949, 729, 1297, 3326, 577, 6109, 235248, 235310, 235290, 235284, 235293, 5539, 235310, 235290, 235284, 235293, 235284, 2492, 235284, 3763, 575, 573, 1370, 2785, 3763, 108, 886, 3933, 671, 6370, 693, 6128, 235248, 235304, 235276, 23016, 235308, 235293, 5539, 235304, 235276, 23016, 235308, 235293, 235274, 235308, 2492, 235274, 235308, 7112, 108, 1949, 1492, 24534, 2550, 235248, 235284, 23192, 235308, 235293, 5539, 235284, 23192, 235308, 235293, 235274, 235265, 235308, 2492, 235274, 235265, 235308, 3763, 108, 886, 674, 1069, 693, 6128, 235248, 235321, 235276, 235287, 235274, 235265, 235308, 235293, 5539, 235321, 235276, 235287, 235274, 235265, 235308, 235293, 235274, 235284, 235276, 2492, 235274, 235284, 235276, 7112, 108, 2339, 693, 26269, 235248, 235274, 235284, 235276, 235340, 235274, 235308, 235293, 5539, 235274, 235284, 235276, 235340, 235274, 235308, 235293, 235274, 235304, 235308, 2492, 235274, 235304, 235308, 7112, 108, 2339, 693, 603, 235248, 235274, 235321, 235276, 235290, 235274, 235304, 235308, 235293, 5539, 235274, 235321, 235276, 235290, 235274, 235304, 235308, 235293, 235310, 235308, 2492, 235310, 235308, 7112, 3024, 774, 2078, 108, 3308, 235248, 235310, 235308], [1949, 8989, 235248, 235284, 235276, 235276, 1148, 235248, 235310, 235276, 589, 3245, 235284, 235276, 235276, 235283, 235310, 235276, 235293, 235308, 2492, 235308, 3868, 23572, 108, 2339, 693, 8989, 235248, 235308, 649, 235248, 235284, 589, 3245, 235308, 235287, 235284, 235293, 235274, 235276, 2492, 235274, 235276, 3118, 23572, 108, 7639, 3118, 10985, 2458, 697, 235310, 235276, 649, 954, 235308, 589, 697, 5539, 235310, 235276, 23016, 235308, 235293, 235284, 235276, 2492, 235284, 235276, 978, 1178, 3868, 23572, 108, 2339, 984, 1853, 2458, 697, 235310, 235276, 963, 697, 235284, 235276, 589, 697, 5539, 235310, 235276, 235340, 235284, 235276, 235293, 235318, 235276, 2492, 235318, 235276, 108, 2339, 693, 9040, 697, 235318, 235276, 649, 235248, 235274, 235276, 589, 697, 5539, 235318, 235276, 235287, 235274, 235276, 235293, 235318, 235276, 235276, 2492, 235318, 235276, 235276, 611, 3118, 23572, 108, 2339, 693, 9040, 697, 235284, 235276, 235276, 963, 697, 235318, 235276, 235276, 589, 697, 5539, 235284, 235276, 235276, 235340, 235318, 235276, 235276, 235293, 235321, 235276, 235276, 2492, 235321, 235276, 235276, 611, 23572, 108, 3308, 235248, 235321, 235276, 235276], [1949, 8989, 235248, 235304, 235321, 963, 235248, 235318, 589, 3245, 235304, 235321, 235340, 235318, 235293, 235310, 235310, 2492, 235310, 235310, 5001, 109566, 235265, 108, 96630, 8989, 235248, 235304, 235321, 963, 235248, 235310, 235310, 589, 3245, 235304, 235321, 235340, 235310, 235310, 235293, 235321, 235284, 2492, 235321, 235284, 109566, 575, 832, 235265, 108, 3308, 235248, 235321, 235284]]
-Initial Loss: 4.787535190582275
-start ij pos optimization
-4 Loss: 4.787535190582275
-AllAfricaيكبнојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-5 Loss: 4.5454816818237305
-AllAfrica%</нојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-6 Loss: 4.5454816818237305
-AllAfrica%</нојmakeConstraints /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-7 Loss: 4.373024940490723
-AllAfrica%</нојHochspringen /></!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-8 Loss: 4.333920478820801
-AllAfrica%</нојHochspringen $]$!!</});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-9 Loss: 4.25717830657959
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-10 Loss: 4.25717830657959
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/ViditeIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-11 Loss: 3.8013670444488525
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-12 Loss: 3.8013670444488525
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-13 Loss: 3.8013670444488525
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakiptoEqualمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-14 Loss: 3.542947769165039
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-15 Loss: 3.542947769165039
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-16 Loss: 3.542947769165039
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawanberdayakan();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-17 Loss: 3.4071669578552246
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));();*/ تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-18 Loss: 3.1092123985290527
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-19 Loss: 3.1092123985290527
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-20 Loss: 3.1092123985290527
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnet})));BeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-21 Loss: 2.942337989807129
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-22 Loss: 2.942337989807129
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContext autorytatywna邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-23 Loss: 2.811908721923828
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ邦 ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-24 Loss: 2.7667109966278076
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLong ***/](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-25 Loss: 2.5380640029907227
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeatures](#.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-26 Loss: 2.3858802318573
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur.﻿IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-27 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-28 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-29 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-30 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-31 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-32 Loss: 2.151362895965576
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulture snippetHideoa̍t հАрхівовано
-
-optimized
-33 Loss: 2.1420512199401855
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հАрхівовано
-
-34 Loss: 2.1420512199401855
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հАрхівовано
-
-35 Loss: 2.1420512199401855
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հАрхівовано
-
-optimized
-36 Loss: 2.0535526275634766
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-Initial VF Loss: 0.9925879240036011
-start vf pos optimization
-optimized
-40 Loss: 0.16656138002872467
-AllAfrica AllAfrica الأصل／կ
-
-optimized
-41 Loss: 0.06417473405599594
-AllAfrica Мексичка الأصل／կ
-
-optimized
-42 Loss: 0.047759734094142914
-AllAfrica Мексичка Practitioner／կ
-
-optimized
-43 Loss: 0.020783033221960068
-AllAfrica Мексичка Practitioner “[կ
-
-44 Loss: 0.020783033221960068
-AllAfrica Мексичка Practitioner “[կ
-
-4
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 181304, 192492, 151267, 192864, 46666, 83694, 134995, 168096, 212549, 61645, 224127, 234936, 161785, 148374, 111420, 201130, 68479, 42924, 238280, 231613, 119569, 213519, 245741, 202076, 136244, 155247, 234936, 86434, 182695, 186226, 47957, 176430, 11438, 235292, 235248, 9112, 1744, 235269, 647, 6941, 46200, 1853, 576, 1070, 53190, 2149, 20393, 576, 10616, 12254, 5513, 235269, 10751, 15741, 235269, 13805, 75334, 578, 19574, 577, 1707, 2745, 1174, 9606, 235265, 139, 3899, 6156, 573, 53190, 1024, 5513, 575, 2149, 8905, 21305, 235265, 878, 573, 5764, 235269, 1284, 6156, 1070, 38183, 576, 53190, 235248, 235274, 235308, 20393, 576, 5513, 235265, 139, 886, 573, 13674, 235269, 1284, 6156, 1070, 53190, 2550, 235248, 235284, 235308, 20393, 576, 5513, 235265, 139, 2299, 1767, 20393, 576, 5513, 1721, 1284, 1476, 577, 2734, 1070, 53190, 575, 573, 2048, 13805, 576, 573, 1744, 1013, 573, 2395, 576, 647, 6941, 235303, 235256, 38183, 603, 235248, 235284, 235276, 53190, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 181304, 192492, 151267, 192864, 46666, 83694, 134995, 168096, 212549, 61645, 224127, 234936, 161785, 148374, 111420, 201130, 68479, 42924, 238280, 231613, 119569, 213519, 245741, 202076, 136244, 155247, 234936, 86434, 182695, 186226, 47957, 176430, 11438, 235292, 235248, 193107, 1161, 8989, 235248, 235304, 18549, 576, 22823, 235269, 235248, 235304, 18549, 576, 16908, 235269, 578, 235248, 235304, 18549, 576, 9378, 235265, 3428, 8537, 576, 22823, 6331, 697, 235274, 235318, 235265, 235308, 235276, 235265, 3428, 8537, 576, 16908, 6331, 697, 235284, 235284, 235265, 235308, 235276, 578, 974, 8537, 576, 9378, 6331, 697, 235310, 235284, 235265, 2250, 1767, 12035, 1498, 76661, 1161, 9999, 611, 832, 573, 14328, 5100, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 181304, 192492, 151267, 192864, 46666, 83694, 134995, 168096, 212549, 61645, 224127, 234936, 161785, 148374, 111420, 201130, 68479, 42924, 238280, 231613, 119569, 213519, 245741, 202076, 136244, 155247, 234936, 86434, 182695, 186226, 47957, 176430, 11438, 235292, 235248, 5235, 12783, 919, 1378, 24778, 604, 20553, 21563, 235269, 974, 3372, 235248, 235284, 235276, 12027, 578, 573, 2257, 974, 3372, 11594, 685, 1767, 12027, 685, 573, 1370, 974, 235265, 2250, 1767, 12027, 1721, 4450, 12783, 791, 577, 1682, 577, 12523, 573, 1378, 21563, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 181304, 192492, 151267, 192864, 46666, 83694, 134995, 168096, 212549, 61645, 224127, 234936, 161785, 148374, 111420, 201130, 68479, 42924, 238280, 231613, 119569, 213519, 245741, 202076, 136244, 155247, 234936, 86434, 182695, 186226, 47957, 176430, 11438, 235292, 235248, 67893, 3833, 476, 235248, 235304, 13514, 61978, 1243, 1535, 5764, 604, 14457, 235265, 139, 2299, 1767, 42591, 576, 12776, 877, 1284, 7812, 575, 235248, 235310, 5976, 235336, 16230, 235292, 235248]] [[28031, 35410, 576, 9512, 2458, 697, 235304, 1141, 235248, 235308, 589, 697, 5539, 235304, 235287, 235308, 235293, 235274, 235308, 2492, 235274, 235308, 235265, 108, 18405, 34188, 2458, 697, 235274, 235265, 235308, 235276, 1141, 235248, 235310, 589, 697, 5539, 235274, 235265, 235308, 235287, 235310, 235293, 235318, 2492, 235318, 235265, 108, 651, 3051, 2458, 576, 573, 12254, 13805, 235269, 9512, 235269, 578, 34188, 603, 697, 235274, 235284, 963, 697, 235274, 235308, 963, 697, 235318, 589, 697, 5539, 235274, 235284, 235340, 235274, 235308, 235340, 235318, 235293, 235304, 235304, 2492, 235304, 235304, 235265, 108, 20292, 235269, 573, 16032, 576, 14967, 2458, 697, 235308, 235276, 728, 697, 235304, 235304, 589, 697, 5539, 235308, 235276, 235290, 235304, 235304, 235293, 235274, 235324, 2492, 235274, 235324, 235265, 108, 24160, 235269, 18857, 11538, 697, 235274, 235324, 34001, 235321, 235265, 235308, 235276, 589, 3245, 235274, 235324, 235283, 235321, 235265, 235308, 235293, 235284, 2492, 235284, 16032, 576, 14967, 235265, 108, 3308, 235248, 235284], [1399, 6290, 877, 5094, 926, 1766, 602, 15999, 908, 774, 697, 235284, 235265, 235324, 235310, 577, 697, 235304, 235269, 2754, 573, 1758, 2412, 573, 235248, 235284, 603, 235248, 235308, 689, 4871, 235265, 108, 1399, 6290, 877, 5094, 926, 7327, 4795, 508, 908, 774, 697, 235274, 235265, 235321, 235324, 577, 697, 235284, 235269, 2754, 573, 1758, 2412, 573, 235248, 235274, 603, 235248, 235308, 689, 4871, 235265, 108, 1399, 6290, 877, 5094, 926, 16971, 97919, 1706, 774, 697, 235284, 235265, 235274, 235284, 577, 697, 235284, 235269, 2754, 573, 1758, 2412, 573, 235248, 235284, 603, 2644, 1178, 235248, 235308, 235265, 108, 1399, 6290, 38219, 235248, 235274, 235284, 1766, 602, 15999, 1141, 697, 235304, 589, 697, 5539, 235274, 235284, 235287, 235304, 235293, 235304, 235318, 2492, 235304, 235318, 108, 1399, 6290, 38219, 235248, 235315, 7327, 4795, 508, 1141, 697, 235284, 589, 697, 5539, 235315, 235287, 235284, 235293, 235274, 235321, 2492, 235274, 235321, 108, 1399, 6290, 38219, 235248, 235274, 235324, 16971, 97919, 1141, 697, 235284, 589, 697, 5539, 235274, 235324, 235287, 235284, 235293, 235304, 235310, 2492, 235304, 235310, 108, 1875, 52707, 235269, 1375, 6290, 877, 1501, 697, 235304, 235318, 963, 697, 235274, 235321, 963, 697, 235304, 235310, 589, 697, 5539, 235304, 235318, 235340, 235274, 235321, 235340, 235304, 235310, 235293, 235321, 235321, 2492, 235321, 235321, 108, 3308, 235248, 235321, 235321], [3899, 52614, 235248, 235318, 235276, 235283, 235304, 235293, 5539, 235318, 235276, 235283, 235304, 235293, 235284, 235276, 2492, 235284, 235276, 11187, 235265, 108, 7409, 1104, 1049, 235248, 235304, 235276, 235290, 235284, 235276, 235293, 5539, 235304, 235276, 235290, 235284, 235276, 235293, 235274, 235276, 2492, 235274, 235276, 575, 573, 3303, 235290, 52538, 509, 25973, 577, 3293, 675, 235265, 108, 3308, 235248, 235274, 235276], [5546, 1717, 1368, 1767, 15619, 134409, 708, 575, 235248, 235310, 235276, 235358, 576, 573, 2482, 235292, 235248, 235284, 235276, 235276, 19026, 649, 235248, 235310, 235276, 235358, 589, 3245, 235284, 235276, 235276, 235287, 235310, 235276, 23016, 235276, 235274, 235293, 235321, 235276, 2492, 235321, 235276, 19026, 108, 7409, 24471, 674, 1758, 731, 573, 6767, 3974, 577, 1717, 573, 1069, 3274, 7620, 229553, 235292, 235248, 235321, 235276, 19026, 1148, 235248, 235284, 19026, 235283, 21306, 589, 3245, 235321, 235276, 235283, 235284, 235293, 235310, 235276, 2492, 235310, 235276, 4363, 108, 7409, 1717, 573, 1069, 577, 6767, 573, 3733, 2482, 1452, 573, 30327, 235292, 235248, 235284, 235276, 235276, 19026, 1148, 235248, 235284, 19026, 235283, 21306, 589, 3245, 235284, 235276, 235276, 235283, 235284, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 4363, 108, 7409, 1843, 573, 1069, 577, 6767, 235248, 235310, 235276, 235358, 576, 573, 2482, 235269, 577, 6767, 573, 3733, 2482, 235269, 578, 577, 4307, 604, 7620, 577, 4601, 235292, 235248, 235310, 235276, 4363, 963, 235248, 235274, 235276, 235276, 4363, 963, 235248, 235284, 235276, 4363, 589, 3245, 235310, 235276, 235340, 235274, 235276, 235276, 235340, 235284, 235276, 235293, 235274, 235318, 235276, 2492, 235274, 235318, 235276, 4363, 108, 3308, 235248, 235274, 235318, 235276]]
-Initial Loss: 2.6908984184265137
-start ij pos optimization
-4 Loss: 2.6908984184265137
-AllAfrica%</нојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-5 Loss: 2.594623565673828
-AllAfricaChildScrollViewнојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-6 Loss: 2.594623565673828
-AllAfricaChildScrollViewнојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-7 Loss: 2.594623565673828
-AllAfricaChildScrollViewнојHochspringen $]$SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-8 Loss: 2.2417373657226562
-AllAfricaChildScrollViewнојHochspringen┘SequentialGroup});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-9 Loss: 2.078916549682617
-AllAfricaChildScrollViewнојHochspringen┘};*/});*/transQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-10 Loss: 1.9263975620269775
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-11 Loss: 1.9263975620269775
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-12 Loss: 1.9263975620269775
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-13 Loss: 1.9263975620269775
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakipAutoScaleمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-14 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-15 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-16 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-17 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-18 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-19 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-20 Loss: 1.9166984558105469
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnetrungsseiteBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-21 Loss: 1.8082213401794434
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצונייםBeginContextղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-22 Loss: 1.7151318788528442
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯ղ PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-23 Loss: 1.5475326776504517
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-24 Loss: 1.5475326776504517
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-25 Loss: 1.5475326776504517
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturesieteur⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-26 Loss: 1.4042718410491943
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtml⎡IsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-27 Loss: 1.2563881874084473
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocIsMutabledottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-28 Loss: 1.1826095581054688
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockitodottasizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-29 Loss: 1.1130046844482422
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-30 Loss: 1.1130046844482422
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-31 Loss: 1.1130046844482422
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan AssemblyCulturecreateCanvasoa̍t հكويكب
-
-optimized
-32 Loss: 1.056342363357544
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawancreateCanvasoa̍t հكويكب
-
-optimized
-33 Loss: 0.9874665141105652
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWithoa̍t հكويكب
-
-optimized
-34 Loss: 0.9203554391860962
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-35 Loss: 0.9203554391860962
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-36 Loss: 0.9203554391860962
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-Initial VF Loss: 0.01905762404203415
-start vf pos optimization
-40 Loss: 0.01905762404203415
-AllAfrica Мексичка Practitioner “[կ
-
-optimized
-41 Loss: 0.006068495102226734
-AllAfricaઉ Practitioner “[կ
-
-optimized
-42 Loss: 0.00367216719314456
-AllAfricaઉrítica “[կ
-
-43 Loss: 0.00367216719314456
-AllAfricaઉrítica “[կ
-
-44 Loss: 0.00367216719314456
-AllAfricaઉrítica “[կ
-
-5
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 191242, 99236, 134995, 168096, 212549, 230174, 224127, 234936, 161785, 148374, 111420, 201130, 108906, 239315, 175509, 231613, 119569, 38907, 39477, 48212, 197524, 155247, 234936, 234936, 185165, 179409, 47957, 176430, 11438, 235292, 235248, 7961, 919, 2149, 3023, 573, 1758, 576, 25195, 685, 124972, 235265, 124972, 919, 1378, 978, 25195, 1178, 72248, 235265, 1927, 72248, 919, 2785, 25195, 235269, 1368, 1767, 3051, 25195, 749, 573, 2149, 791, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 191242, 99236, 134995, 168096, 212549, 230174, 224127, 234936, 161785, 148374, 111420, 201130, 108906, 239315, 175509, 231613, 119569, 38907, 39477, 48212, 197524, 155247, 234936, 234936, 185165, 179409, 47957, 176430, 11438, 235292, 235248, 44659, 8507, 577, 4874, 204940, 37073, 235265, 139, 1636, 1535, 23106, 576, 204940, 235269, 693, 798, 1501, 235248, 235274, 235276, 95897, 37073, 235265, 139, 4038, 23106, 576, 204940, 578, 573, 513, 10939, 2458, 697, 235274, 235276, 235265, 235276, 235276, 575, 15767, 235265, 140, 2495, 693, 38219, 1853, 28162, 604, 697, 235284, 235265, 235276, 235276, 1853, 235269, 1212, 603, 926, 3117, 12610, 1013, 693, 3833, 578, 38219, 235248, 235284, 235276, 37073, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 191242, 99236, 134995, 168096, 212549, 230174, 224127, 234936, 161785, 148374, 111420, 201130, 108906, 239315, 175509, 231613, 119569, 38907, 39477, 48212, 197524, 155247, 234936, 234936, 185165, 179409, 47957, 176430, 11438, 235292, 235248, 49955, 38219, 115530, 235265, 1315, 919, 235248, 235321, 7138, 611, 10111, 235265, 4340, 1370, 235248, 235304, 7138, 4631, 974, 22276, 1853, 235265, 139, 11446, 2351, 235248, 235284, 7138, 4631, 235248, 235284, 115530, 1853, 235265, 139, 11446, 2001, 235248, 235304, 7138, 1453, 235303, 235251, 4631, 1089, 115530, 235265, 2250, 1767, 115530, 1498, 31851, 4874, 611, 10111, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 191242, 99236, 134995, 168096, 212549, 230174, 224127, 234936, 161785, 148374, 111420, 201130, 108906, 239315, 175509, 231613, 119569, 38907, 39477, 48212, 197524, 155247, 234936, 234936, 185165, 179409, 47957, 176430, 11438, 235292, 235248, 49469, 791, 33051, 908, 611, 573, 139004, 235265, 4213, 576, 573, 9446, 6109, 1593, 575, 573, 1370, 235248, 235274, 235308, 4363, 576, 573, 9988, 15247, 235269, 1492, 235248, 235284, 235276, 978, 9446, 6109, 1593, 575, 573, 11548, 235248, 235274, 235308, 4363, 576, 573, 15247, 235265, 235248, 235308, 9446, 774, 573, 2017, 1987, 671, 13581, 712, 984, 1453, 235303, 235251, 791, 577, 6109, 1593, 573, 9988, 15247, 235265, 1927, 1104, 1049, 12080, 235248, 235304, 235276, 9446, 611, 573, 139004, 235269, 1368, 1767, 9446, 26269, 1593, 573, 9988, 15247, 575, 573, 1370, 235248, 235274, 235308, 4363, 235336, 16230, 235292, 235248]] [[1949, 58776, 235248, 235274, 235276, 23016, 235308, 235293, 5539, 235274, 235276, 23016, 235308, 235293, 235308, 2492, 235308, 3763, 842, 1744, 108, 3171, 3454, 693, 58776, 235248, 235308, 235287, 235324, 235293, 5539, 235308, 235287, 235324, 235293, 235304, 235308, 2492, 235304, 235308, 3763, 842, 2788, 108, 3308, 235248, 235304, 235308], [651, 1758, 576, 59830, 576, 573, 2733, 575, 573, 2257, 2514, 6629, 577, 235248, 235304, 235287, 235318, 235276, 589, 3245, 235304, 235287, 235318, 235276, 235293, 235274, 235321, 235276, 2492, 235274, 235321, 235276, 108, 886, 573, 1370, 1378, 4063, 235269, 573, 3051, 1758, 576, 59830, 576, 573, 2733, 729, 235248, 235274, 235321, 235276, 235340, 235318, 235276, 589, 3245, 235274, 235321, 235276, 235340, 235318, 235276, 235293, 235284, 235310, 235276, 2492, 235284, 235310, 235276, 108, 886, 573, 4906, 2514, 235269, 573, 1758, 576, 59830, 576, 573, 2733, 9673, 731, 235248, 235304, 235276, 235283, 235274, 235276, 235276, 235287, 235274, 235321, 235276, 589, 3245, 235304, 235276, 235283, 235274, 235276, 235276, 235287, 235274, 235321, 235276, 235293, 235308, 235310, 2492, 235308, 235310, 108, 3493, 1049, 235248, 235274, 235321, 235276, 235290, 235308, 235310, 589, 3245, 235274, 235321, 235276, 235290, 235308, 235310, 235293, 235274, 235284, 235318, 2492, 235274, 235284, 235318, 59830, 575, 573, 4906, 2514, 235265, 108, 886, 573, 2149, 4063, 235269, 573, 3051, 1758, 576, 59830, 576, 573, 2733, 729, 235248, 235274, 235284, 235318, 235340, 235284, 235310, 235276, 589, 3245, 235274, 235284, 235318, 235340, 235284, 235310, 235276, 235293, 235304, 235318, 235318, 2492, 235304, 235318, 235318, 108, 3308, 235248, 235304, 235318, 235318], [651, 3051, 1758, 576, 7845, 575, 573, 4547, 877, 614, 235248, 235321, 7845, 235283, 17612, 649, 235248, 235274, 235308, 28066, 589, 3245, 235321, 235287, 235274, 235308, 235293, 235274, 235284, 235276, 2492, 235274, 235284, 235276, 7845, 235265, 108, 2495, 235248, 235304, 235283, 235310, 576, 573, 4547, 603, 22022, 235269, 1492, 573, 3051, 1758, 576, 22022, 7845, 603, 235248, 235304, 235283, 235310, 649, 235248, 235274, 235284, 235276, 7845, 589, 3245, 235304, 235283, 235310, 235287, 235274, 235284, 235276, 235293, 235315, 235276, 2492, 235315, 235276, 7845, 235265, 108, 651, 3051, 1758, 576, 189460, 7845, 603, 235248, 235274, 235284, 235276, 7845, 728, 235248, 235315, 235276, 7845, 589, 3245, 235274, 235284, 235276, 235290, 235315, 235276, 235293, 235304, 235276, 2492, 235304, 235276, 7845, 235265, 108, 3308, 235248, 235304, 235276], [206055, 919, 235248, 235310, 963, 235248, 235284, 589, 3245, 235310, 235340, 235284, 235293, 235318, 2492, 235318, 25195, 235265, 108, 7961, 919, 235248, 235304, 649, 235248, 235318, 589, 3245, 235304, 235287, 235318, 235293, 235274, 235321, 2492, 235274, 235321, 25195, 108, 886, 3051, 235269, 573, 2149, 791, 235248, 235310, 963, 235248, 235318, 963, 235248, 235274, 235321, 589, 3245, 235310, 235340, 235318, 235340, 235274, 235321, 235293, 235284, 235321, 2492, 235284, 235321, 25195, 235265, 108, 3308, 235248, 235284, 235321]]
-Initial Loss: 0.7663177251815796
-start ij pos optimization
-4 Loss: 0.7663177251815796
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-5 Loss: 0.7663177251815796
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-6 Loss: 0.7663177251815796
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-7 Loss: 0.7663177251815796
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-8 Loss: 0.7663177251815796
-AllAfricaChildScrollViewнојHochspringen┘};*/ CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-9 Loss: 0.7425873279571533
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-10 Loss: 0.7425873279571533
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-11 Loss: 0.7425873279571533
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-12 Loss: 0.7425873279571533
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-13 Loss: 0.7425873279571533
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakip propOrderمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-14 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-15 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-16 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-17 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-18 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-19 Loss: 0.6680403351783752
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها gekennzeichnet חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-20 Loss: 0.6536726951599121
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline חיצוניים涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-21 Loss: 0.5669780969619751
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-22 Loss: 0.5669780969619751
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯())) PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-23 Loss: 0.5534124374389648
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-24 Loss: 0.5534124374389648
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongViewFeaturescshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-25 Loss: 0.537955641746521
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotcshtmlinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-26 Loss: 0.5098350048065186
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔinheritDocmockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-27 Loss: 0.47197654843330383
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-28 Loss: 0.47197654843330383
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-29 Loss: 0.47197654843330383
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-30 Loss: 0.47197654843330383
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache Paglinawan PaglinawanencodeWith esternos հكويكب
-
-optimized
-31 Loss: 0.46719327569007874
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հكويكب
-
-32 Loss: 0.46719327569007874
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հكويكب
-
-33 Loss: 0.46719327569007874
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հكويكب
-
-34 Loss: 0.46719327569007874
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հكويكب
-
-35 Loss: 0.46719327569007874
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հكويكب
-
-optimized
-36 Loss: 0.46277955174446106
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-Initial VF Loss: 0.03230560943484306
-start vf pos optimization
-40 Loss: 0.03230560943484306
-AllAfricaઉrítica “[կ
-
-optimized
-41 Loss: 0.019536573439836502
-AllAfricaNúmerosrítica “[կ
-
-optimized
-42 Loss: 0.011513220146298409
-AllAfricaNúmerosریه “[կ
-
-43 Loss: 0.011513220146298409
-AllAfricaNúmerosریه “[կ
-
-optimized
-44 Loss: 0.003151452634483576
-AllAfricaNúmerosریه “[ഓ
-
-6
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 64163, 99236, 134995, 168096, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 231613, 95814, 214503, 144663, 48212, 197524, 155247, 86434, 234936, 185165, 179409, 47957, 66997, 11438, 235292, 235248, 159159, 1093, 235248, 235310, 4078, 1064, 3392, 577, 3532, 1357, 611, 476, 3383, 1744, 235265, 714, 1370, 4034, 25158, 611, 573, 155005, 235248, 235284, 235276, 3023, 1794, 64536, 9338, 235269, 573, 2257, 4034, 25158, 611, 573, 155005, 235248, 235274, 235283, 235310, 3023, 978, 1178, 64536, 235303, 235256, 1370, 4034, 235265, 714, 4906, 4034, 25158, 611, 573, 155005, 235248, 235274, 235276, 3023, 978, 1178, 573, 12201, 4034, 235265, 1927, 573, 12201, 4034, 25158, 611, 573, 155005, 235248, 235318, 235276, 3023, 235269, 1368, 1767, 155005, 20221, 1498, 573, 155005, 1501, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 64163, 99236, 134995, 168096, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 231613, 95814, 214503, 144663, 48212, 197524, 155247, 86434, 234936, 185165, 179409, 47957, 66997, 11438, 235292, 235248, 6726, 58015, 235248, 235284, 18549, 576, 9378, 604, 1853, 576, 926, 235248, 235304, 3069, 235265, 139, 4508, 2458, 697, 235318, 235276, 1853, 235265, 139, 2299, 1683, 1498, 693, 2523, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 64163, 99236, 134995, 168096, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 231613, 95814, 214503, 144663, 48212, 197524, 155247, 86434, 234936, 185165, 179409, 47957, 66997, 11438, 235292, 235248, 43389, 603, 30979, 476, 20799, 5421, 235265, 714, 5421, 877, 2458, 697, 235315, 235276, 577, 4829, 235265, 9573, 1162, 665, 877, 2664, 235248, 235324, 104237, 235269, 948, 693, 798, 4874, 604, 697, 235274, 235265, 235308, 1853, 235265, 1165, 6331, 697, 235304, 476, 1162, 577, 2003, 578, 5513, 573, 5421, 235265, 2250, 1767, 1658, 877, 665, 1987, 1794, 693, 11207, 38987, 3370, 611, 573, 20799, 5421, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 151267, 244300, 64163, 99236, 134995, 168096, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 231613, 95814, 214503, 144663, 48212, 197524, 155247, 86434, 234936, 185165, 179409, 47957, 66997, 11438, 235292, 235248, 9647, 3870, 8989, 4105, 3027, 26215, 604, 697, 235274, 235308, 235276, 1853, 604, 476, 235248, 235304, 235290, 10533, 83189, 235265, 586, 235248, 235284, 235358, 3273, 877, 614, 12497, 604, 1853, 4982, 235265, 2250, 1683, 877, 6129, 3870, 2523, 1853, 2514, 604, 235248, 235304, 4063, 235336, 16230, 235292, 235248]] [[3493, 1049, 235248, 235274, 235324, 235308, 728, 235248, 235304, 235308, 589, 3245, 235274, 235324, 235308, 235290, 235304, 235308, 235293, 235274, 235310, 235276, 2492, 235274, 235310, 235276, 7962, 924, 575, 573, 29936, 15704, 235265, 108, 3493, 1049, 235248, 235274, 235310, 235276, 1141, 235248, 235284, 589, 3245, 235274, 235310, 235276, 235287, 235284, 235293, 235284, 235321, 235276, 2492, 235284, 235321, 235276, 6524, 67148, 575, 573, 29936, 15704, 235265, 108, 2339, 235269, 573, 3051, 1758, 576, 48771, 575, 573, 29936, 15704, 603, 235248, 235274, 235324, 235308, 963, 235248, 235274, 235310, 235276, 963, 235248, 235284, 235321, 235276, 589, 3245, 235274, 235324, 235308, 235340, 235274, 235310, 235276, 235340, 235284, 235321, 235276, 235293, 235308, 235315, 235308, 2492, 235308, 235315, 235308, 235265, 108, 3308, 235248, 235308, 235315, 235308], [651, 7454, 17733, 6022, 604, 235248, 235308, 235276, 235276, 235287, 235284, 235310, 235293, 5539, 235308, 235276, 235276, 235287, 235284, 235310, 235293, 235274, 235284, 235276, 235276, 235276, 2492, 235274, 235284, 235276, 235276, 235276, 4363, 476, 1744, 108, 3171, 3454, 984, 1443, 6022, 604, 235248, 235274, 235284, 235276, 235276, 235276, 235283, 235318, 235276, 235293, 5539, 235274, 235284, 235276, 235276, 235276, 235283, 235318, 235276, 235293, 235284, 235276, 235276, 2492, 235284, 235276, 235276, 3763, 476, 1744, 108, 4508, 12610, 235248, 235284, 235276, 235276, 235290, 235274, 235308, 235276, 5858, 5539, 235284, 235276, 235276, 235290, 235274, 235308, 235276, 235293, 235308, 235276, 2492, 235308, 235276, 842, 6370, 108, 2339, 984, 1501, 476, 12610, 576, 235248, 235284, 235276, 235276, 3763, 649, 697, 235308, 235276, 235283, 14420, 589, 697, 5539, 235284, 235276, 235276, 235287, 235308, 235276, 235293, 235274, 235276, 235276, 235276, 235276, 2492, 235274, 235276, 235276, 235276, 235276, 476, 1744, 774, 7679, 20635, 108, 3308, 235248, 235274, 235276, 235276, 235276, 235276], [1718, 5548, 235248, 235284, 235283, 235284, 235293, 5539, 235284, 235283, 235284, 235293, 235274, 2492, 235274, 33390, 576, 2674, 20149, 108, 2339, 573, 3051, 3619, 576, 9662, 603, 235248, 235284, 235340, 235274, 235293, 5539, 235284, 235340, 235274, 235293, 235304, 2492, 235304, 45099, 576, 9662, 108, 3308, 235248, 235304], [11446, 1370, 235248, 235304, 7138, 4631, 235248, 235304, 649, 235248, 235274, 589, 3245, 235304, 235287, 235274, 235293, 235304, 2492, 235304, 115530, 235265, 108, 11446, 2351, 235248, 235284, 4631, 235248, 235284, 649, 235248, 235284, 589, 3245, 235284, 235287, 235284, 235293, 235310, 2492, 235310, 115530, 235265, 108, 1949, 38219, 476, 3051, 576, 235248, 235304, 963, 235248, 235310, 963, 235248, 235276, 589, 3245, 235304, 235340, 235310, 235340, 235276, 235293, 235324, 2492, 235324, 115530, 235265, 108, 3308, 235248, 235324]]
-Initial Loss: 0.6019178032875061
-start ij pos optimization
-4 Loss: 0.6019178032875061
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-5 Loss: 0.6019178032875061
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-6 Loss: 0.6019178032875061
-AllAfricaChildScrollViewнојHochspringen┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-7 Loss: 0.5921948552131653
-AllAfricaChildScrollViewној)))))┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-8 Loss: 0.5921948552131653
-AllAfricaChildScrollViewној)))))┘ Quite CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-9 Loss: 0.5468548536300659
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-10 Loss: 0.5468548536300659
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-11 Loss: 0.5468548536300659
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQIVEREF nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-12 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-13 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-14 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-15 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-16 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-17 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-18 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-19 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-20 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-21 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-22 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-23 Loss: 0.5226007103919983
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence PyLongiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-24 Loss: 0.5124111771583557
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSLiprotدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-25 Loss: 0.5105264782905579
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapersدانشنامهٔavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-26 Loss: 0.5094152688980103
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongavaomockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-27 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-28 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-29 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-30 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-31 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-32 Loss: 0.4854362905025482
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanencodeWith esternos հInteropServices
-
-optimized
-33 Loss: 0.48302680253982544
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe esternos հInteropServices
-
-optimized
-34 Loss: 0.48093104362487793
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-35 Loss: 0.48093104362487793
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-36 Loss: 0.48093104362487793
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-Initial VF Loss: 0.03383421152830124
-start vf pos optimization
-40 Loss: 0.03383421152830124
-AllAfricaNúmerosریه “[ഓ
-
-optimized
-41 Loss: 0.013910134322941303
-AllAfrica programsریه “[ഓ
-
-optimized
-42 Loss: 0.002904722234234214
-AllAfrica programsziare “[ഓ
-
-43 Loss: 0.002904722234234214
-AllAfrica programsziare “[ഓ
-
-44 Loss: 0.002904722234234214
-AllAfrica programsziare “[ഓ
-
-7
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 218028, 147685, 47957, 66997, 11438, 235292, 235248, 198351, 235303, 235256, 3974, 842, 6370, 604, 573, 1370, 235248, 235310, 235276, 3763, 1284, 3598, 1853, 2788, 603, 697, 235274, 235276, 235265, 2475, 1170, 26975, 671, 55538, 2523, 576, 235248, 235274, 235265, 235284, 3023, 1070, 5748, 62343, 3974, 235265, 1927, 89826, 6800, 604, 235248, 235310, 235308, 3763, 736, 2788, 235269, 1368, 1683, 708, 1070, 24261, 604, 736, 2788, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 218028, 147685, 47957, 66997, 11438, 235292, 235248, 44659, 1093, 235248, 235274, 235276, 33954, 235265, 1315, 8989, 235248, 235284, 235274, 33954, 774, 476, 4659, 575, 573, 29483, 578, 2371, 235248, 235284, 235304, 33954, 604, 926, 10043, 235265, 5040, 27946, 5645, 235248, 235315, 576, 573, 33954, 577, 926, 11000, 578, 1671, 235248, 235284, 235321, 577, 55716, 476, 32338, 4076, 235265, 2250, 1767, 33954, 1721, 27946, 791, 2731, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 218028, 147685, 47957, 66997, 11438, 235292, 235248, 6726, 58015, 11594, 685, 1767, 3118, 23572, 685, 3868, 23572, 235265, 139, 651, 3118, 23572, 2458, 235248, 235308, 235276, 235358, 978, 1178, 3868, 23572, 235265, 139, 1949, 9040, 697, 235284, 235276, 235276, 611, 3868, 23572, 674, 2458, 697, 235310, 235276, 1853, 235265, 2250, 1683, 1498, 693, 9999, 611, 23572, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 9918, 204746, 239315, 110147, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 218028, 147685, 47957, 66997, 11438, 235292, 235248, 19238, 19704, 578, 17289, 235303, 235256, 15797, 708, 575, 573, 9537, 576, 235248, 235324, 235292, 235274, 235274, 235265, 1927, 1024, 3051, 3911, 1490, 603, 235248, 235274, 235318, 235284, 235269, 13988, 17289, 235303, 235256, 3911, 235248, 235274, 235276, 1658, 774, 1490, 235265, 16230, 235292, 235248]] [[163735, 919, 7765, 235248, 235274, 235276, 235276, 235276, 9308, 1148, 235248, 235310, 589, 3245, 235274, 235276, 235276, 235276, 235283, 235310, 235293, 235284, 235308, 235276, 2492, 235284, 235308, 235276, 9308, 235265, 108, 1596, 3454, 1104, 708, 235248, 235274, 235276, 235276, 235276, 1157, 235248, 235284, 235308, 235276, 589, 3245, 235274, 235276, 235276, 235276, 235290, 235284, 235308, 235276, 235293, 235324, 235308, 235276, 2492, 235324, 235308, 235276, 9308, 11548, 235265, 108, 8274, 3278, 5852, 6853, 235248, 235324, 235308, 235276, 1148, 235248, 235304, 589, 3245, 235324, 235308, 235276, 235283, 235304, 235293, 235284, 235308, 235276, 2492, 235284, 235308, 235276, 9308, 235265, 108, 1596, 7907, 476, 3051, 576, 235248, 235324, 235308, 235276, 1157, 235248, 235284, 235308, 235276, 589, 3245, 235324, 235308, 235276, 235290, 235284, 235308, 235276, 235293, 235308, 235276, 235276, 2492, 235308, 235276, 235276, 114922, 9308, 2731, 577, 614, 7765, 235265, 108, 3308, 235248, 235308, 235276, 235276], [1949, 21031, 604, 235248, 235284, 235283, 235284, 235293, 5539, 235284, 235283, 235284, 235293, 235274, 2492, 235274, 6370, 476, 3354, 108, 2339, 693, 58776, 235248, 235284, 235340, 235274, 235293, 5539, 235284, 235340, 235274, 235293, 235304, 2492, 235304, 3763, 611, 1450, 5728, 108, 3171, 3454, 693, 58776, 235248, 235304, 235287, 235304, 235293, 5539, 235304, 235287, 235304, 235293, 235315, 2492, 235315, 3763, 476, 2788, 611, 1174, 108, 2339, 575, 235248, 235310, 5976, 235269, 693, 58776, 235248, 235315, 235287, 235310, 235293, 5539, 235315, 235287, 235310, 235293, 235304, 235318, 2492, 235304, 235318, 3763, 611, 1450, 5728, 108, 3308, 235248, 235304, 235318], [5331, 1141, 614, 573, 1758, 576, 8343, 22799, 171634, 919, 108, 227149, 1748, 919, 1141, 235340, 235304, 235276, 4394, 22799, 235265, 108, 235297, 235340, 235297, 235340, 235304, 235276, 235293, 235274, 235274, 235276, 108, 235284, 235287, 235297, 235293, 235321, 235276, 108, 235297, 235293, 5539, 235310, 235276, 235293, 235310, 235276, 2492, 235310, 235276, 108, 227149, 1748, 919, 235248, 235310, 235276, 235340, 235304, 235276, 235293, 5539, 235310, 235276, 235340, 235304, 235276, 235293, 235324, 235276, 2492, 235324, 235276, 4394, 22799, 108, 3308, 235248, 235324, 235276], [5546, 1717, 1368, 1767, 15619, 134409, 708, 575, 235248, 235310, 235276, 235358, 576, 573, 2482, 235292, 235248, 235284, 235276, 235276, 19026, 649, 235248, 235310, 235276, 235358, 589, 3245, 235284, 235276, 235276, 235287, 235310, 235276, 23016, 235276, 235274, 235293, 235321, 235276, 2492, 235321, 235276, 19026, 108, 7409, 24471, 674, 1758, 731, 573, 6767, 3974, 577, 1717, 573, 1069, 3274, 7620, 229553, 235292, 235248, 235321, 235276, 19026, 1148, 235248, 235284, 19026, 235283, 21306, 589, 3245, 235321, 235276, 235283, 235284, 235293, 235310, 235276, 2492, 235310, 235276, 4363, 108, 7409, 1717, 573, 1069, 577, 6767, 573, 3733, 2482, 1452, 573, 30327, 235292, 235248, 235284, 235276, 235276, 19026, 1148, 235248, 235284, 19026, 235283, 21306, 589, 3245, 235284, 235276, 235276, 235283, 235284, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 4363, 108, 7409, 1843, 573, 1069, 577, 6767, 235248, 235310, 235276, 235358, 576, 573, 2482, 235269, 577, 6767, 573, 3733, 2482, 235269, 578, 577, 4307, 604, 7620, 577, 4601, 235292, 235248, 235310, 235276, 4363, 963, 235248, 235274, 235276, 235276, 4363, 963, 235248, 235284, 235276, 4363, 589, 3245, 235310, 235276, 235340, 235274, 235276, 235276, 235340, 235284, 235276, 235293, 235274, 235318, 235276, 2492, 235274, 235318, 235276, 4363, 108, 3308, 235248, 235274, 235318, 235276]]
-Initial Loss: 0.4851495921611786
-start ij pos optimization
-4 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-5 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-6 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-7 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-8 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-9 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-10 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-11 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-12 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-13 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-14 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-15 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-16 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-17 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-18 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-19 Loss: 0.4851495921611786
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرهاcline مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-optimized
-20 Loss: 0.4737861752510071
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde مرئيه涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-optimized
-21 Loss: 0.4722026288509369
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-22 Loss: 0.4722026288509369
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 Référence OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-optimized
-23 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-24 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-25 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-26 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-27 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-28 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-29 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-30 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-31 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-32 Loss: 0.46930447220802307
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture PaglinawanNotBe parseFrom հInteropServices
-
-optimized
-33 Loss: 0.4664522409439087
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-34 Loss: 0.4664522409439087
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-35 Loss: 0.4664522409439087
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-36 Loss: 0.4664522409439087
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-Initial VF Loss: 0.0021713031455874443
-start vf pos optimization
-40 Loss: 0.0021713031455874443
-AllAfrica programsziare “[ഓ
-
-optimized
-41 Loss: 0.0013248485047370195
-AllAfrica NgModuleziare “[ഓ
-
-42 Loss: 0.0013248485047370195
-AllAfrica NgModuleziare “[ഓ
-
-43 Loss: 0.0013248485047370195
-AllAfrica NgModuleziare “[ഓ
-
-44 Loss: 0.0013248485047370195
-AllAfrica NgModuleziare “[ഓ
-
-8
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 160981, 147685, 47957, 66997, 11438, 235292, 235248, 113665, 603, 476, 4444, 235290, 511, 235290, 7032, 7108, 14172, 235265, 2475, 7596, 476, 4906, 576, 1070, 23173, 86328, 696, 573, 4433, 3036, 235269, 235248, 235284, 978, 577, 573, 3118, 3036, 235269, 578, 3933, 576, 1212, 729, 2731, 696, 573, 10436, 3036, 235265, 1927, 84018, 919, 235248, 235308, 23173, 86328, 2731, 235269, 1368, 1767, 1498, 1284, 2238, 675, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 160981, 147685, 47957, 66997, 11438, 235292, 235248, 2495, 194558, 3598, 604, 573, 1809, 3277, 604, 235248, 235310, 235276, 1658, 235269, 1284, 6803, 671, 8897, 24863, 576, 697, 235308, 235276, 235269, 235276, 235276, 235276, 235283, 4085, 235265, 41431, 1452, 235248, 235284, 235276, 1658, 235269, 1284, 8485, 15633, 577, 235248, 235308, 235358, 576, 573, 1618, 576, 573, 24863, 842, 1162, 235265, 1927, 1284, 151215, 1452, 235248, 235304, 235276, 1658, 235269, 1212, 877, 1070, 8897, 24863, 614, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 160981, 147685, 47957, 66997, 11438, 235292, 235248, 140659, 798, 2060, 235248, 235274, 235276, 7112, 842, 6370, 604, 235248, 235304, 3763, 235265, 4660, 674, 235269, 1284, 10140, 235248, 235308, 7112, 842, 6370, 235265, 2250, 1767, 7112, 798, 1284, 2060, 575, 235248, 235324, 3763, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 150604, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 231613, 178970, 48212, 197524, 155247, 86434, 234936, 160981, 147685, 47957, 66997, 11438, 235292, 235248, 30546, 7652, 235248, 235284, 9148, 476, 1744, 575, 926, 8717, 235265, 4660, 235248, 235274, 235308, 2705, 235269, 1368, 1767, 9148, 1721, 693, 791, 1013, 235248, 235308, 1498, 780, 2664, 235336, 16230, 235292, 235248]] [[3493, 708, 11594, 685, 1767, 10194, 685, 8216, 235269, 712, 1013, 1104, 708, 235248, 235318, 235276, 8216, 235269, 1104, 708, 235248, 235284, 235287, 235318, 235276, 589, 3245, 235284, 235287, 235318, 235276, 235293, 235274, 235284, 235276, 2492, 235274, 235284, 235276, 10194, 108, 3493, 708, 235248, 235274, 235284, 235276, 963, 235248, 235318, 235276, 589, 3245, 235274, 235284, 235276, 235340, 235318, 235276, 235293, 235274, 235321, 235276, 2492, 235274, 235321, 235276, 3787, 575, 3051, 108, 2495, 1104, 708, 235248, 235308, 3787, 577, 1853, 9382, 235269, 1492, 235248, 235274, 235321, 235276, 3787, 1134, 1476, 235248, 235274, 235321, 235276, 235283, 235308, 589, 3245, 235274, 235321, 235276, 235283, 235308, 235293, 235304, 235318, 2492, 235304, 235318, 10522, 108, 3308, 235248, 235304, 235318], [5546, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 10649, 235292, 697, 235284, 235276, 235283, 14420, 649, 235248, 235304, 235308, 3763, 235283, 13118, 589, 697, 5539, 235284, 235276, 235287, 235304, 235308, 235293, 235324, 235276, 235276, 2492, 235324, 235276, 235276, 235283, 13118, 108, 7409, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 29026, 235292, 697, 235304, 235276, 235283, 14420, 649, 235248, 235274, 235308, 3763, 235283, 13118, 589, 697, 5539, 235304, 235276, 235287, 235274, 235308, 235293, 235310, 235308, 235276, 2492, 235310, 235308, 235276, 235283, 13118, 108, 7409, 1843, 1941, 1378, 15992, 577, 1717, 573, 3051, 3619, 57674, 3833, 842, 2788, 235292, 697, 235324, 235276, 235276, 235283, 13118, 963, 697, 235310, 235308, 235276, 235283, 13118, 589, 697, 5539, 235324, 235276, 235276, 235340, 235310, 235308, 235276, 235293, 235274, 235274, 235308, 235276, 2492, 235274, 235274, 235308, 235276, 235283, 13118, 108, 7409, 29686, 674, 1758, 731, 573, 1758, 576, 5976, 57674, 3598, 575, 476, 1162, 577, 1717, 1070, 8897, 18463, 235292, 697, 235274, 235274, 235308, 235276, 235283, 13118, 649, 235248, 235308, 235276, 5976, 235283, 4085, 589, 697, 5539, 235274, 235274, 235308, 235276, 235287, 235308, 235276, 235293, 235308, 235324, 235308, 235276, 235276, 2492, 235308, 235324, 235269, 235308, 235276, 235276, 108, 3308, 235248, 235308, 235324, 235308, 235276, 235276], [651, 3413, 877, 614, 8758, 575, 235248, 235310, 235284, 1148, 235248, 235304, 589, 3245, 235310, 235284, 235283, 235304, 235293, 235274, 235310, 2492, 235274, 235310, 24580, 576, 235248, 235274, 235276, 4363, 235265, 108, 20292, 235269, 665, 877, 1987, 235248, 235274, 235310, 649, 235248, 235274, 235276, 589, 3245, 235274, 235310, 235287, 235274, 235276, 235293, 235274, 235310, 235276, 2492, 235274, 235310, 235276, 4363, 604, 573, 17373, 577, 3098, 573, 3733, 3413, 235265, 108, 3308, 235248, 235274, 235310, 235276], [1949, 8989, 235248, 235304, 235287, 235284, 235293, 5539, 235304, 235287, 235284, 235293, 235318, 2492, 235318, 18549, 576, 9378, 108, 2339, 693, 9040, 235248, 235318, 235276, 235287, 235318, 5858, 5539, 235318, 235276, 235287, 235318, 235293, 235304, 235318, 235276, 2492, 235304, 235318, 235276, 108, 3308, 235248, 235304, 235318, 235276]]
-Initial Loss: 0.4482070505619049
-start ij pos optimization
-4 Loss: 0.4482070505619049
-AllAfricaChildScrollViewној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-optimized
-5 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-6 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-7 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-8 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-9 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-10 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-11 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-12 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-13 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-14 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-15 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-16 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-17 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-18 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-19 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-20 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-21 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-22 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-23 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-24 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-25 Loss: 0.4464864432811737
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapers PyLongtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-optimized
-26 Loss: 0.44603171944618225
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔtosímockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-optimized
-27 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-28 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-29 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-30 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-31 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-32 Loss: 0.44422677159309387
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawan Geraadpleegd parseFrom հInteropServices
-
-optimized
-33 Loss: 0.44334569573402405
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հInteropServices
-
-34 Loss: 0.44334569573402405
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հInteropServices
-
-35 Loss: 0.44334569573402405
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հInteropServices
-
-optimized
-36 Loss: 0.4415436387062073
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-Initial VF Loss: 0.0007469248375855386
-start vf pos optimization
-40 Loss: 0.0007469248375855386
-AllAfrica NgModuleziare “[ഓ
-
-optimized
-41 Loss: 0.0005231918767094612
-AllAfrica NPTziare “[ഓ
-
-42 Loss: 0.0005231918767094612
-AllAfrica NPTziare “[ഓ
-
-43 Loss: 0.0005231918767094612
-AllAfrica NPTziare “[ഓ
-
-44 Loss: 0.0005231918767094612
-AllAfrica NPTziare “[ഓ
-
-9
-[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36] [40, 41, 42, 43, 44]
-[[2, 2622, 235292, 235248, 220672, 194879, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 214503, 155283, 48212, 197524, 155247, 86434, 234936, 92696, 147685, 47957, 211460, 11438, 235292, 235248, 49886, 48472, 235248, 235284, 35999, 95748, 476, 1744, 235265, 139, 4508, 708, 7094, 611, 5934, 696, 235248, 235310, 35999, 95748, 604, 697, 235308, 235265, 235276, 235276, 235265, 139, 2299, 1683, 1721, 693, 9999, 611, 50162, 1163, 235248, 235304, 235276, 2705, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 194879, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 214503, 155283, 48212, 197524, 155247, 86434, 234936, 92696, 147685, 47957, 211460, 11438, 235292, 235248, 6726, 5548, 2212, 576, 235248, 235274, 235276, 12075, 235265, 139, 7639, 5929, 5548, 954, 235308, 3763, 476, 1744, 577, 5376, 578, 1987, 2212, 576, 1024, 2567, 235265, 139, 2299, 1767, 3763, 476, 2788, 1721, 693, 9999, 4998, 2212, 576, 12075, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 194879, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 214503, 155283, 48212, 197524, 155247, 86434, 234936, 92696, 147685, 47957, 211460, 11438, 235292, 235248, 28858, 492, 235303, 235256, 5248, 798, 3385, 235248, 235318, 3023, 978, 25340, 1178, 798, 92030, 235303, 235256, 5248, 235265, 139, 651, 7725, 1758, 576, 25340, 674, 92030, 235303, 235256, 5248, 798, 3385, 603, 235248, 235308, 235276, 3023, 978, 1178, 573, 1758, 576, 13141, 575, 125544, 235303, 235256, 10782, 576, 573, 64322, 696, 573, 22650, 235265, 139, 2495, 125544, 235303, 235256, 5248, 798, 3385, 235248, 235274, 235321, 235276, 235276, 25340, 235269, 1368, 1767, 64322, 798, 614, 3624, 575, 125544, 235303, 235256, 10782, 576, 64322, 696, 573, 22650, 235336, 16230, 235292, 235248], [2, 2622, 235292, 235248, 220672, 194879, 192492, 148374, 244300, 51865, 99236, 134995, 96003, 212549, 46520, 224127, 234936, 161785, 148374, 111420, 120858, 185881, 239315, 45280, 187751, 192563, 214503, 155283, 48212, 197524, 155247, 86434, 234936, 92696, 147685, 47957, 211460, 11438, 235292, 235248, 2495, 194558, 3598, 604, 573, 1809, 3277, 604, 235248, 235310, 235276, 1658, 235269, 1284, 6803, 671, 8897, 24863, 576, 697, 235308, 235276, 235269, 235276, 235276, 235276, 235283, 4085, 235265, 41431, 1452, 235248, 235284, 235276, 1658, 235269, 1284, 8485, 15633, 577, 235248, 235308, 235358, 576, 573, 1618, 576, 573, 24863, 842, 1162, 235265, 1927, 1284, 151215, 1452, 235248, 235304, 235276, 1658, 235269, 1212, 877, 1070, 8897, 24863, 614, 235336, 16230, 235292, 235248]] [[651, 3051, 9537, 19017, 573, 15555, 1284, 1671, 577, 1501, 573, 8423, 603, 235248, 235324, 235340, 235274, 235304, 589, 3245, 235324, 235340, 235274, 235304, 235293, 235284, 235276, 2492, 235284, 235276, 108, 12496, 573, 17441, 19017, 573, 1758, 576, 86682, 1284, 1671, 603, 235248, 235324, 235283, 235284, 235276, 235269, 1284, 1671, 235248, 235324, 235283, 235284, 235276, 235287, 235274, 235284, 235276, 589, 3245, 235324, 235283, 235284, 235276, 235287, 235274, 235284, 235276, 235293, 235310, 235284, 2492, 235310, 235284, 108, 3308, 235248, 235310, 235284], [44718, 573, 5428, 10137, 15143, 4918, 693, 37944, 235248, 235274, 235274, 235276, 963, 235248, 235308, 589, 3245, 235274, 235274, 235276, 235340, 235308, 235293, 235274, 235274, 235308, 2492, 235274, 235274, 235308, 5428, 736, 1162, 235265, 108, 1949, 1093, 26405, 1980, 1767, 235269, 712, 693, 2004, 791, 4880, 235248, 235274, 235274, 235308, 1157, 235248, 235274, 235308, 589, 3245, 235274, 235274, 235308, 235290, 235274, 235308, 235293, 235274, 235276, 235276, 2492, 235274, 235276, 235276, 5428, 577, 4199, 2001, 1162, 235349, 235256, 3619, 235265, 108, 24160, 235269, 693, 2004, 791, 26405, 235248, 235274, 235276, 235276, 1148, 235248, 235284, 589, 3245, 235274, 235276, 235276, 235283, 235284, 235293, 235308, 235276, 2492, 235308, 235276, 5428, 2001, 1162, 235265, 108, 3308, 235248, 235308, 235276], [886, 235248, 235321, 5976, 235269, 37406, 26975, 697, 235308, 649, 235248, 235321, 589, 697, 5539, 235308, 235287, 235321, 235293, 235310, 235276, 2492, 235310, 235276, 575, 37196, 108, 131178, 4604, 675, 697, 235274, 235276, 235276, 728, 697, 235310, 235276, 589, 697, 5539, 235274, 235276, 235276, 235290, 235310, 235276, 235293, 235318, 235276, 2492, 235318, 235276, 108, 3308, 235248, 235318, 235276], [1949, 8989, 235248, 235304, 235321, 963, 235248, 235318, 589, 3245, 235304, 235321, 235340, 235318, 235293, 235310, 235310, 2492, 235310, 235310, 5001, 109566, 235265, 108, 96630, 8989, 235248, 235304, 235321, 963, 235248, 235310, 235310, 589, 3245, 235304, 235321, 235340, 235310, 235310, 235293, 235321, 235284, 2492, 235321, 235284, 109566, 575, 832, 235265, 108, 3308, 235248, 235321, 235284]]
-Initial Loss: 0.6491543054580688
-start ij pos optimization
-4 Loss: 0.6491543054580688
-AllAfricaতথ্যসূত্রној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-optimized
-5 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-6 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-7 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-8 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-9 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-10 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-11 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-12 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-13 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-14 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-15 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-16 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-17 Loss: 0.647624135017395
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));))))) تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-optimized
-18 Loss: 0.6458593606948853
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-19 Loss: 0.6458593606948853
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-20 Loss: 0.6458593606948853
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Onde guerrero涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-optimized
-21 Loss: 0.6394384503364563
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-22 Loss: 0.6394384503364563
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯 certo OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-optimized
-23 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-24 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-25 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-26 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-27 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-28 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-29 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-30 Loss: 0.6351199150085449
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache AssemblyCulture Paglinawannodoc parseFrom հparrot
-
-optimized
-31 Loss: 0.6317364573478699
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd Paglinawannodoc parseFrom հparrot
-
-optimized
-32 Loss: 0.6257946491241455
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd AssemblyCulturenodoc parseFrom հparrot
-
-optimized
-33 Loss: 0.6234020590782166
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd AssemblyCulture!</ parseFrom հparrot
-
-optimized
-34 Loss: 0.6154266595840454
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd AssemblyCulture!</InView հparrot
-
-35 Loss: 0.6154266595840454
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd AssemblyCulture!</InView հparrot
-
-optimized
-36 Loss: 0.6117479205131531
-AllAfrica*/].ној)))))┘addContainerGap CanadaChoosetransQ оригіналу nahilalakipParallelGroupمقاله Paglinawan]));Clik تكبرها Ondeitamos涯}{|| OpenSSL EconPapersدانشنامهٔVIAFmockito überweisensizeCache uitgenodigd AssemblyCulture!</InView հBeginContext
-
-Initial VF Loss: 0.0014155616518110037
-start vf pos optimization
-40 Loss: 0.0014155616518110037
-AllAfrica NPTziare “[ഓ
-
-optimized
-41 Loss: 0.0010382506297901273
-AllAfrica compleannoziare “[ഓ
-
-optimized
-42 Loss: 0.0006587718962691724
-AllAfrica compleanno itſelf “[ഓ
-
-43 Loss: 0.0006587718962691724
-AllAfrica compleanno itſelf “[ഓ
-
-44 Loss: 0.0006587718962691724
-AllAfrica compleanno itſelf “[ഓ
-
-Time:  18806.727550107054
