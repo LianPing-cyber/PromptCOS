@@ -1,0 +1,6 @@
+modelscope
+peft
+datasets==3.0.0
+addict
+OpenAI
+bertscore
